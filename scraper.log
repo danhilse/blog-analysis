@@ -1,0 +1,137 @@
+2024-11-13 21:27:20,713 - INFO - 
+Analyzing URL: https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/
+2024-11-13 21:27:20,713 - INFO - Fetching URL: https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/
+2024-11-13 21:27:20,872 - INFO - Response content type: text/html; charset=UTF-8
+2024-11-13 21:27:20,872 - INFO - Response encoding: UTF-8
+2024-11-13 21:27:20,872 - ERROR - Error processing https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/: BrotliDecompress failed
+Traceback (most recent call last):
+  File "/Users/danhilse/PycharmProjects/acton_blog/scrape_blog.py", line 53, in analyze_webpage
+    content = brotli.decompress(response.content)
+brotli.error: BrotliDecompress failed
+2024-11-13 21:27:20,873 - INFO - Analysis completed for: https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/
+2024-11-13 21:27:20,873 - INFO - 
+Analyzing URL: https://act-on.com/learn/on-demand-webinars/how-to-succeed-at-email-marketing-without-really-trying/
+2024-11-13 21:27:20,873 - INFO - Fetching URL: https://act-on.com/learn/on-demand-webinars/how-to-succeed-at-email-marketing-without-really-trying/
+2024-11-13 21:27:21,041 - INFO - Response content type: text/html; charset=UTF-8
+2024-11-13 21:27:21,041 - INFO - Response encoding: UTF-8
+2024-11-13 21:27:21,041 - ERROR - Error processing https://act-on.com/learn/on-demand-webinars/how-to-succeed-at-email-marketing-without-really-trying/: BrotliDecompress failed
+Traceback (most recent call last):
+  File "/Users/danhilse/PycharmProjects/acton_blog/scrape_blog.py", line 53, in analyze_webpage
+    content = brotli.decompress(response.content)
+brotli.error: BrotliDecompress failed
+2024-11-13 21:27:21,042 - INFO - Analysis completed for: https://act-on.com/learn/on-demand-webinars/how-to-succeed-at-email-marketing-without-really-trying/
+2024-11-13 21:27:21,044 - INFO - 
+Analysis complete:
+2024-11-13 21:27:21,045 - INFO - Total URLs processed: 2
+2024-11-13 21:27:21,045 - INFO - Successful analyses: 0
+2024-11-13 21:27:21,045 - INFO - Failed analyses: 2
+2024-11-13 21:27:21,045 - INFO - Results saved to: output/blog.json
+2024-11-13 21:28:31,909 - INFO - 
+Analyzing URL: https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/
+2024-11-13 21:28:31,909 - INFO - Fetching URL: https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/
+2024-11-13 21:28:32,201 - INFO - Response status code: 200
+2024-11-13 21:28:32,201 - INFO - Response headers: {'Date': 'Thu, 14 Nov 2024 05:28:32 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie', 'X-Pingback': 'https://act-on.com/xmlrpc.php', 'Last-Modified': 'Fri, 14 Aug 2020 12:41:09 GMT', 'X-Cacheable': 'YES:15552000.000', 'Cache-Control': 'max-age=15552000, must-revalidate', 'X-Cache': 'HIT: 31', 'X-Cache-Group': 'normal', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Content-Security-Policy': 'upgrade-insecure-requests', 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '8e2499405a647d6b-LAX', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2024-11-13 21:28:32,201 - INFO - Response encoding: UTF-8
+2024-11-13 21:28:32,201 - INFO - First 1000 characters of decoded HTML:
+2024-11-13 21:28:32,201 - INFO - <!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v23.4 (Yoast SEO v23.8) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Manufacturing Industry Slow to Adopt Emerging Digital Marketing Software</title>
+	<meta name="description" content="Our research suggests manufacturers should be doing more to improve their digital marketing efforts, which presents a great opportunity to implement marketing automation software." />
+	<link rel="canonical" href="https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title
+2024-11-13 21:28:32,224 - INFO - Found <head> tag: True
+2024-11-13 21:28:32,224 - INFO - Head contents:
+2024-11-13 21:28:32,225 - INFO - <head>
+ <meta charset="utf-8"/>
+ <meta content="width=device-width, initial-scale=1" name="viewport"/>
+ <link href="https://gmpg.org/xfn/11" rel="profile"/>
+ <meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots"/>
+ <!-- This site is optimized with the Yoast SEO Premium plugin v23.4 (Yoast SEO v23.8) - https://yoast.com/wordpress/plugins/seo/ -->
+ <title>
+  Manufacturing Industry Slow to Adopt Emerging Digital Marketing Software
+ </title>
+ <meta content="Our research suggests manufacturers should be doing more to improve their digital marketing efforts, which presents a great opportunity to implement marketing automation software." name="description"/>
+ <link href="https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/" rel="canonical"/>
+ <meta content="en_US" property="og:locale"/>
+ <meta content="article" property="og:type"/>
+ <meta content="Manufacturing Industry Slow to Adopt Emergi
+2024-11-13 21:28:32,225 - INFO - Found 5 script tags in head
+2024-11-13 21:28:32,225 - INFO - Script 0 type: application/ld+json
+2024-11-13 21:28:32,225 - INFO - Script 0 class: ['yoast-schema-graph']
+2024-11-13 21:28:32,225 - INFO - JSON-LD content: {"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/#article","isPartOf":{"@id":
+2024-11-13 21:28:32,225 - INFO - Script 1 type: None
+2024-11-13 21:28:32,225 - INFO - Script 1 class: None
+2024-11-13 21:28:32,225 - INFO - Script 2 type: None
+2024-11-13 21:28:32,225 - INFO - Script 2 class: None
+2024-11-13 21:28:32,225 - INFO - Script 3 type: None
+2024-11-13 21:28:32,225 - INFO - Script 3 class: None
+2024-11-13 21:28:32,225 - INFO - Script 4 type: text/javascript
+2024-11-13 21:28:32,225 - INFO - Script 4 class: None
+2024-11-13 21:28:32,242 - INFO - Analysis completed for: https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/
+2024-11-13 21:28:32,242 - INFO - 
+Analyzing URL: https://act-on.com/learn/on-demand-webinars/how-to-succeed-at-email-marketing-without-really-trying/
+2024-11-13 21:28:32,242 - INFO - Fetching URL: https://act-on.com/learn/on-demand-webinars/how-to-succeed-at-email-marketing-without-really-trying/
+2024-11-13 21:28:32,574 - INFO - Response status code: 200
+2024-11-13 21:28:32,575 - INFO - Response headers: {'Date': 'Thu, 14 Nov 2024 05:28:32 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie', 'Last-Modified': 'Mon, 04 Mar 2024 11:37:23 GMT', 'X-Cacheable': 'SHORT', 'Cache-Control': 'max-age=600, must-revalidate', 'X-Cache': 'HIT: 2', 'X-Cache-Group': 'normal', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Content-Security-Policy': 'upgrade-insecure-requests', 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '8e2499426f107d03-LAX', 'Content-Encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'}
+2024-11-13 21:28:32,575 - INFO - Response encoding: UTF-8
+2024-11-13 21:28:32,575 - INFO - First 1000 characters of decoded HTML:
+2024-11-13 21:28:32,575 - INFO - <!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v23.4 (Yoast SEO v23.8) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>How to Succeed At Email Marketing Without Really Trying - Act-On</title>
+	<meta name="description" content="Whether you&#039;ve been hitting send on email campaigns for a few days or a few decades, boost your email performance with data-driven best practices." />
+	<link rel="canonical" href="https://act-on.com/learn/on-demand-webinars/how-to-succeed-at-email-marketing-without-really-trying/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="How to Succeed At Email Mark
+2024-11-13 21:28:32,601 - INFO - Found <head> tag: True
+2024-11-13 21:28:32,601 - INFO - Head contents:
+2024-11-13 21:28:32,602 - INFO - <head>
+ <meta charset="utf-8"/>
+ <meta content="width=device-width, initial-scale=1" name="viewport"/>
+ <link href="https://gmpg.org/xfn/11" rel="profile"/>
+ <meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots"/>
+ <!-- This site is optimized with the Yoast SEO Premium plugin v23.4 (Yoast SEO v23.8) - https://yoast.com/wordpress/plugins/seo/ -->
+ <title>
+  How to Succeed At Email Marketing Without Really Trying - Act-On
+ </title>
+ <meta content="Whether you've been hitting send on email campaigns for a few days or a few decades, boost your email performance with data-driven best practices." name="description"/>
+ <link href="https://act-on.com/learn/on-demand-webinars/how-to-succeed-at-email-marketing-without-really-trying/" rel="canonical"/>
+ <meta content="en_US" property="og:locale"/>
+ <meta content="article" property="og:type"/>
+ <meta content="How to Succeed At Email Marketing Without Really Trying" property="og:title"/>
+ <meta c
+2024-11-13 21:28:32,602 - INFO - Found 5 script tags in head
+2024-11-13 21:28:32,602 - INFO - Script 0 type: application/ld+json
+2024-11-13 21:28:32,602 - INFO - Script 0 class: ['yoast-schema-graph']
+2024-11-13 21:28:32,602 - INFO - JSON-LD content: {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://act-on.com/learn/on-demand-webinars/how-to-succeed-at-email-marketing-without-really-trying/","url":"https://act-on.com/lea
+2024-11-13 21:28:32,602 - INFO - Script 1 type: None
+2024-11-13 21:28:32,602 - INFO - Script 1 class: None
+2024-11-13 21:28:32,602 - INFO - Script 2 type: None
+2024-11-13 21:28:32,602 - INFO - Script 2 class: None
+2024-11-13 21:28:32,602 - INFO - Script 3 type: None
+2024-11-13 21:28:32,602 - INFO - Script 3 class: None
+2024-11-13 21:28:32,602 - INFO - Script 4 type: text/javascript
+2024-11-13 21:28:32,602 - INFO - Script 4 class: None
+2024-11-13 21:28:32,619 - INFO - Analysis completed for: https://act-on.com/learn/on-demand-webinars/how-to-succeed-at-email-marketing-without-really-trying/
+2024-11-13 21:28:32,621 - INFO - 
+Analysis complete:
+2024-11-13 21:28:32,621 - INFO - Total URLs processed: 2
+2024-11-13 21:28:32,621 - INFO - Successful analyses: 2
+2024-11-13 21:28:32,621 - INFO - Failed analyses: 0
+2024-11-13 21:28:32,621 - INFO - Results saved to: output/blog.json
