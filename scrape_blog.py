@@ -366,6 +366,10 @@ def get_all_blogs():
 
             return blogs_array
 
+def filter_valid_urls(urls):
+    """Filter out data-sheets URLs and return valid URLs only."""
+    return [url for url in urls if "/learn/data-sheets/" not in url]
+
 def main():
     analyzer = BlogAnalyzer()
     urls = [
@@ -379,6 +383,7 @@ def main():
 
     # urls = get_all_blogs()
 
+    urls = filter_valid_urls(urls)
 
 
     # Create output directory if it doesn't exist

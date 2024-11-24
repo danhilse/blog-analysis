@@ -55,6 +55,53 @@ def calculate_word_count(content):
     clean_text = clean_content(content)
     return len(clean_text.split())
 
+
+def add_no_match_highlighting(ws):
+    """
+    Adds conditional highlighting to mark cells containing 'No Clear Match', 'NONE',
+    or similar values in red.
+
+    Parameters:
+        ws (openpyxl.worksheet.worksheet.Worksheet): The active worksheet
+    """
+    # Get header row values
+    header_row = [cell.value for cell in ws[2]]  # Headers are in row 2
+
+    # Columns to check for "No Clear" values
+    target_columns = [
+        'Primary Category',
+        'Solution Topic',
+        'Use Case',
+        'Customer Journey Stage',
+        'CMO Priority',
+        'Marketing Activity Type',
+        'Target Audience'
+    ]
+
+    # Get column indices for target columns
+    column_indices = {col: header_row.index(col) + 1 for col in target_columns if col in header_row}
+
+    # Values to highlight in red
+    highlight_values = [
+        'No Clear Match',
+        'NONE',
+        'No Clear Topic',
+        'No Clear Activity Type',
+        'No Clear Audience'
+    ]
+
+    # Red fill for matching cells
+    red_fill = PatternFill(start_color='FF0000', end_color='FF0000', fill_type='solid')
+    white_font = Font(color='FFFFFF', bold=True)
+
+    # Apply highlighting to matching cells
+    for row in range(3, ws.max_row + 1):  # Start from data rows
+        for col_name, col_idx in column_indices.items():
+            cell = ws.cell(row=row, column=col_idx)
+            if cell.value in highlight_values:
+                cell.fill = red_fill
+                cell.font = white_font
+
 def style_excel_file(filename):
     wb = openpyxl.load_workbook(filename)
     ws = wb.active
@@ -95,6 +142,10 @@ def style_excel_file(filename):
         'Performance Metrics': {
             'header': '#00babe',  # Teal
             'subheader': '#E5F9F9'  # Lighter teal
+        },
+        'Cost Analysis': {            # Added missing section
+            'header': '#e34e64',      # Salmon
+            'subheader': '#FFEFEF'    # Lighter salmon
         }
     }
 
@@ -235,6 +286,9 @@ def style_excel_file(filename):
         bottom=openpyxl.styles.Side(style='thin', color='E3E3E3')
     )
 
+    # Add the new highlighting for "No Clear Match" values
+    add_no_match_highlighting(ws)
+
     for row in ws.iter_rows():
         for cell in row:
             cell.border = thin_border
@@ -243,6 +297,7 @@ def style_excel_file(filename):
     for row in range(3, ws.max_row + 1):
         cell = ws.cell(row=row, column=cost_col)
         cell.number_format = '$#,##0.00000'
+
 
     # Restore title in its new position
     ws['A3'] = title_cell
