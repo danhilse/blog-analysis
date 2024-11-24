@@ -6,8 +6,9 @@ import logging
 import os
 from datetime import datetime
 from urllib.parse import urlparse
-import brotli
 import sys
+import ast
+
 
 # Enhanced logging setup
 logging.basicConfig(
@@ -343,14 +344,42 @@ class BlogAnalyzer:
         else:
             return 'other'
 
+def get_all_blogs():
+    with open('all blogs.txt', 'r', encoding='utf-8') as file:
+            # Read the entire file content
+            content = file.read().strip()
 
+            # Handle potential variations in the file content
+            # Remove any leading/trailing whitespace or linebreaks
+            content = content.strip()
+
+            # If the content doesn't start with '[' and end with ']', try to fix it
+            if not (content.startswith('[') and content.endswith(']')):
+                content = f"[{content}]"
+
+            # Use ast.literal_eval to safely evaluate the string as a Python literal
+            blogs_array = ast.literal_eval(content)
+
+            # Verify that we got a list
+            if not isinstance(blogs_array, list):
+                raise ValueError("File content is not a valid array/list")
+
+            return blogs_array
 
 def main():
     analyzer = BlogAnalyzer()
     urls = [
         "https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/",
-        "https://act-on.com/learn/on-demand-webinars/how-to-succeed-at-email-marketing-without-really-trying/"
+        "https://act-on.com/learn/blog/retention-marketing-how-we-reached-400-customer-accounts/",
+        "https://act-on.com/learn/data-sheets/advanced-crm-mapping/",
+        "https://act-on.com/learn/blog/how-and-why-you-should-calculate-customer-lifetime-value-clv/",
+        "https://act-on.com/learn/blog/pipeline-generation-face-economic-headwinds-and-win/",
+        "https://act-on.com/learn/blog/what-is-customer-marketing-2/"
     ]
+
+    # urls = get_all_blogs()
+
+
 
     # Create output directory if it doesn't exist
     output_dir = "output"
