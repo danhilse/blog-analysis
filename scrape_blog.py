@@ -189,8 +189,28 @@ class BlogAnalyzer:
         multimedia = {
             'header_image': None,
             'content_images': [],
-            'total_image_count': 0
+            'total_image_count': 0,
+            'outdated_widgets': []  # New field
         }
+
+        # Find outdated download button widgets
+        main_content = soup.find('div', class_='elementor-widget-theme-post-content')
+        if main_content:
+            # Find all wp-block-buttons divs
+            button_blocks = main_content.find_all('div', class_='wp-block-buttons')
+            for block in button_blocks:
+                # Check for standard style buttons with download/ebook links
+                buttons = block.find_all('div', class_='wp-block-button is-style-standard')
+                for button in buttons:
+                    link = button.find('a', class_='wp-block-button__link')
+                    if link and ('download' in link.get_text().lower() or 'ebook' in link.get_text().lower()):
+                        multimedia['outdated_widgets'].append({
+                            'type': 'download_button',
+                            'text': link.get_text(strip=True),
+                            'url': link.get('href', '')
+                        })
+
+        multimedia['outdated_widget_count'] = len(multimedia['outdated_widgets'])
 
         # Find header/featured image
         featured_img = soup.find('div', class_='elementor-widget-theme-post-featured-image')
@@ -200,7 +220,7 @@ class BlogAnalyzer:
                 multimedia['header_image'] = {
                     'src': img.get('src', ''),
                     'alt': img.get('alt', ''),
-                    'width': img.get('width', ''),
+                    'width': int(img.get('width', 0)) if img.get('width') else 0,
                     'height': img.get('height', '')
                 }
 
@@ -366,20 +386,50 @@ def get_all_blogs():
 
             return blogs_array
 
+
 def filter_valid_urls(urls):
-    """Filter out data-sheets URLs and return valid URLs only."""
-    return [url for url in urls if "/learn/data-sheets/" not in url]
+    """
+    Filter out data-sheets URLs and duplicates, returning only unique valid URLs.
+
+    Args:
+        urls (list): List of URLs to filter
+
+    Returns:
+        list: Filtered list of unique, valid URLs
+    """
+    # Convert to set to remove duplicates while filtering invalid URLs
+    unique_valid_urls = {url for url in urls if "/learn/data-sheets/" not in url}
+    # Convert back to list and sort for consistency
+    return sorted(list(unique_valid_urls))
 
 def main():
     analyzer = BlogAnalyzer()
+
+    # URLs from first presentation
     urls = [
         "https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/",
         "https://act-on.com/learn/blog/retention-marketing-how-we-reached-400-customer-accounts/",
-        "https://act-on.com/learn/data-sheets/advanced-crm-mapping/",
-        "https://act-on.com/learn/blog/how-and-why-you-should-calculate-customer-lifetime-value-clv/",
-        "https://act-on.com/learn/blog/pipeline-generation-face-economic-headwinds-and-win/",
-        "https://act-on.com/learn/blog/what-is-customer-marketing-2/"
+        # "https://act-on.com/learn/data-sheets/advanced-crm-mapping/",
+        # "https://act-on.com/learn/blog/how-and-why-you-should-calculate-customer-lifetime-value-clv/",
+        # "https://act-on.com/learn/blog/pipeline-generation-face-economic-headwinds-and-win/",
+        # "https://act-on.com/learn/blog/what-is-customer-marketing-2/"
     ]
+
+    urls = ["https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/",
+            "https://act-on.com/learn/blog/which-marketing-software-applications-matter-to-b2b-marketers/",
+            "https://act-on.com/learn/blog/the-secret-marketing-strategy-thinking/",
+            "https://act-on.com/learn/blog/critical-rules-for-seo-success-in-2015/",
+            "https://act-on.com/learn/blog/spam-filter-basics-how-to-keep-your-emails-from-getting-blocked/",
+            "https://act-on.com/learn/blog/tradeshows-and-events-drive-highest-quality-leads/",
+            "https://act-on.com/learn/blog/hiring-a-marketer-what-skill-set-should-you-look-for/",
+            "https://act-on.com/learn/blog/title-tags-headings-and-you-get-tips-for-seo-success/",
+            "https://act-on.com/learn/blog/best-practices-in-email-deliverability-uncommon-tiers-of-engagement/",
+            "https://act-on.com/learn/blog/an-act-on-conversation-blurred-lines-what-sales-marketing-will-look-like-in-2015/",
+            "https://act-on.com/learn/blog/global-software-provider-mikogo-uses-marketing-automation-to-drive-results/",
+            "https://act-on.com/learn/blog/video-marketing-works-for-b2b-too-insights-from-the-software-benchmark-report/",
+            "https://act-on.com/learn/blog/whats-the-word-new-additions-to-the-digital-marketing-glossary/",
+            "https://act-on.com/learn/blog/whats-your-type-personality-tests-in-the-workplace/",
+            "https://act-on.com/learn/blog/battle-the-bloat-and-give-your-content-marketing-a-lean-new-physique/"]
 
     # urls = get_all_blogs()
 
