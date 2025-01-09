@@ -1,280 +1,740 @@
-brandGuidelines = f'''
-## **Our Personality**
-
-Our brand personality combines the "Supportive Challenger" and the "White-Collar Mechanic," reflecting the essence of our approach to marketing automation.
-
-### **Personality: Supportive Challenger**
-
-We're here to support our customers every step of the way, while challenging them to push themselves to achieve more. Our platform and services are designed to help marketers go from idea to impact swiftly. We provide the tools – not to mention the guidance and encouragement – they need to transform their marketing efforts and drive business growth.
-
-Empathetic: We listen and provide personalized support.
-
-Encouraging: We inspire clients to think bigger and aim higher.
-
-Empowering: We provide tools and guidance for clients to take control.
-
-Proactive: We anticipate needs and offer solutions in advance.
-
-Innovative: We help clients embrace new ideas and technologies.
-
-### **Persona: "White-Collar Mechanic"**
-
-We pride ourselves on being hands-on experts, knowledgeable about the intricacies of marketing automation. Like a skilled mechanic, we understand the technical details and complexities, but we present ourselves with the polish and professionalism of a white-collar worker. Our team is approachable, reliable, and always ready to roll up our sleeves to ensure that our clients' marketing machines run smoothly and efficiently.
-
-Technically Proficient: We have a deep understanding of marketing automation.
-
-Detail-Oriented: We ensure all components work seamlessly.
-
-Professional: We maintain a polished and respectful demeanor.
-
-Reliable: Clients can count on us to be dependable.
-
-Approachable: We make complex concepts accessible and are friendly.
-
-## **Messaging Framework**
-
-What makes us unique is what sets us apart from the competition. When we talk about Act-On, we emphasize what we do well.
-
-### **ACT-ON FUELS AGILE MARKETING**
-
-- Unlock your potential. Our intuitive platform accelerates marketing programs while measuring and driving business results.
-- Go from idea to impact in record time. Create, measure, and refine your marketing efforts for maximum precision.
-- Invest in your business' growth. Cut costs and drive ROI by eliminating time-consuming tasks that don't add value.
-
-### **INNOVATIVE SOLUTIONS FOR INNOVATIVE MARKETERS**
-
-- Generate demand and amplify your brand with all the features an enterprise marketing team needs.
-- Leverage groundbreaking AI and Analytics. Expand your pipeline and convert customers with the most innovative marketing automation platform.
-- Connect the dots faster to outpace your competitors. Make data-driven decisions backed by seamless integrations and a flexible data environment.
-
-### **YOUR PARTNER IN MARKETING SUCCESS AT EVERY STAGE**
-
-- Get quick support every time. Count on a knowledgeable support team that can quickly resolve any marketing challenge.
-- Leverage resources and expertise to win. Unlock new possibilities through our extensive partner and professional services ecosystem.
-- Pursue ambitious goals. Act confidently, knowing you're supported by an organization focused on helping marketers grow revenue.
-
-## **Voice**
-
-Our brand voice is: Refreshingly Direct
-
-Our voice transcends the written word and informs how we behave, our personality and style.
-
-### **01. Natural, conversational and straightforward**
-
-Our frank, conversational tone sets us apart as a brand that talks straight. We speak plainly, like we're the coolest person at the party with nothing to prove. It's not arrogance, but confidence, authenticity.
-
-We don't try too hard with our headlines, jokes, references, puns and don't use corporate-speak, jargon, or 'overly-smart' language.
-
-Examples of words to avoid: seamless, synergy, enable, align, actionable
-
-### **02. Authentic & Approachable**
-
-The tone we use reflects confidence and ease; we know who we are and what we offer; we don't have to try too hard, because we are authentically ourselves.
-
-We use humor where appropriate, particularly to make dry topics more engaging, but we always stay professional when discussing serious topics that impact our audience's jobs and businesses.
-
-### **03. Gender-Neutral and Inclusive**
-
-We don't use any language that denigrates people based on their gender, background, or any other identity. Everyone is a part of our community, and we strive to be inclusive, for example, by using gender-neutral pronouns and removing racially-coded language.
-
-Examples of exclusionary terms to avoid: blacklist, stand up, guys, master, kill, sexualized language
-
-### **04. Tailored to Channel and Content Type**
-
-Our new brand voice will come out more in some channels and content types than others. If we are overly "challenging" on all of our content, it may come across as aggressive and unwelcoming. See next page for more details.
-
-## **Tone of Voice Spectrum**
-
-Our voice underpins everything we say in the market. But our tone will vary from channel to channel depending on what our audiences need from us. Even at our most challenging, we support marketers as best we can. On the left, at our most supportive, we're challenging marketers to be bold and do more.
-
-10% CHALLENGING / 90% SUPPORTIVE
-
-- CS TEAM
-- CONNECT.ACT-ON.COM
-
-30% CHALLENGING / 70% SUPPORTIVE
-
-- CUSTOMER MARKETING
-- PRODUCT
-
-50% CHALLENGING / 50% SUPPORTIVE
-
-- WEBINAR
-- EBOOKS
-- PR
-- WEBSITE
-
-70% CHALLENGING / 30% SUPPORTIVE
-
-- BLOGS
-- EMAIL MKTG
-
-90% CHALLENGING / 10% SUPPORTIVE
-
-- VIDEO
-- SOCIAL
-- ADVERTISING
-
-## **Ideal Customer Profile (ICP)**
-
-### **THE "DISENFRANCHISED"**
-
-- Invested in top MAP providers behind the larger vision; tech stack misalignment has developed
-- Lost faith in current MAP providers that require heavy resources are distracted away from Marketing and are perceived to be stalled
-- Frustrated by the lack of progress against the 'vision' that came with the original promise
-- Have established processes and integrations
-
-BUYERS:
-
-- CMO/VP of Marketing
-- Director of Demand Generation
-- Dir. of Mktg/Rev. Operations
-- Director of Corp Marketing
-
-USERS:
-
-- Director of Demand Gen.
-- Director of Mktg Operations
-- Email Marketing Manager/ Campaigns Manager
-- Customer Marketing Manager
-
-### **THE "GRADUATOR"**
-
-- Business scale and maturity are finally pushing them to evolve from traditional Email Service Providers to Marketing Automation.
-- Seeking alternatives but extremely risk-averse; seeking a concierge-type partner to take them to entry-level Marketing Automation.
-- Likely being "pushed" to MA due to maturity needs and digital transformation.
-
-### **THE "DISENFRANCHISED" USER**
-
-Experienced marketing automation user that's frustrated with their existing software platform. Looking for solutions that make their jobs easier.
-
-### **THE "GRADUATOR" USER**
-
-A user that is new to marketing automation. They don't know what's possible since they haven't done it before, but they know what they want to do. Need software to achieve that desire, and education on how to use that software.
-
-### **THE "DISENFRANCHISED" BUYER**
-
-Marketing leader that is replacing an existing marketing automation platform. They have to lower their lower costs due to budgetary pressure, and they have to prove marketing's ROI; migration is a point of friction.
-
-### **THE "GRADUATOR" BUYER**
-
-Marketing leader that is building a new department, or graduating to marketing automation platforms in order to automate and scale their marketing efforts.
-
-# **1.6 Our Brand**
-
-## **Values**
-
-Our values are related to the focus of intent. They are the reasons why we do what we do.
-
-### **Put People First**
-
-Lead with human connection and relationship. Practice respect, empathy and open communication. Consider and invest in all Act-On stakeholders: team members, customers, vendors and business partners alike.
-
-### **Be Yourself**
-
-Embrace authenticity and honesty. Show up with your whole self – experiences, perspectives and humanity – and make room for others to do the same.
-
-### **Do Your Best (Together)**
-
-Commit to excellence, integrity and outcomes. Engage in dynamic collaboration, formulate plans with focus and act with urgency. Inspire and empower others.
-
-### **Make It Better**
-
-Champion innovation and growth. Think creatively, share your ideas and invite feedback. Celebrate collective accomplishments and learn from the disappointments. Meet tough problems head-on and challenge assumptions.
-'''
-
-voiceGuidelines = f'''## **Our Personality**
-
-Our brand personality combines the "Supportive Challenger" and the "White-Collar Mechanic," reflecting the essence of our approach to marketing automation.
-
-### **Personality: Supportive Challenger**
-
-We're here to support our customers every step of the way, while challenging them to push themselves to achieve more. Our platform and services are designed to help marketers go from idea to impact swiftly. We provide the tools – not to mention the guidance and encouragement – they need to transform their marketing efforts and drive business growth.
-
-Empathetic: We listen and provide personalized support.
-
-Encouraging: We inspire clients to think bigger and aim higher.
-
-Empowering: We provide tools and guidance for clients to take control.
-
-Proactive: We anticipate needs and offer solutions in advance.
-
-Innovative: We help clients embrace new ideas and technologies.
-
-### **Persona: "White-Collar Mechanic"**
-
-We pride ourselves on being hands-on experts, knowledgeable about the intricacies of marketing automation. Like a skilled mechanic, we understand the technical details and complexities, but we present ourselves with the polish and professionalism of a white-collar worker. Our team is approachable, reliable, and always ready to roll up our sleeves to ensure that our clients' marketing machines run smoothly and efficiently.
-
-Technically Proficient: We have a deep understanding of marketing automation.
-
-Detail-Oriented: We ensure all components work seamlessly.
-
-Professional: We maintain a polished and respectful demeanor.
-
-Reliable: Clients can count on us to be dependable.
-
-Approachable: We make complex concepts accessible and are friendly.
-
-///
-
-## **Voice**
-
-Our brand voice is: Refreshingly Direct
-
-Our voice transcends the written word and informs how we behave, our personality and style.
-
-### **01. Natural, conversational and straightforward**
-
-Our frank, conversational tone sets us apart as a brand that talks straight. We speak plainly, like we're the coolest person at the party with nothing to prove. It's not arrogance, but confidence, authenticity.
-
-We don't try too hard with our headlines, jokes, references, puns and don't use corporate-speak, jargon, or 'overly-smart' language.
-
-Examples of words to avoid: seamless, synergy, enable, align, actionable
-
-### **02. Authentic & Approachable**
-
-The tone we use reflects confidence and ease; we know who we are and what we offer; we don't have to try too hard, because we are authentically ourselves.
-
-We use humor where appropriate, particularly to make dry topics more engaging, but we always stay professional when discussing serious topics that impact our audience's jobs and businesses.
-
-### **03. Gender-Neutral and Inclusive**
-
-We don't use any language that denigrates people based on their gender, background, or any other identity. Everyone is a part of our community, and we strive to be inclusive, for example, by using gender-neutral pronouns and removing racially-coded language.
-
-Examples of exclusionary terms to avoid: blacklist, stand up, guys, master, kill, sexualized language
-
-### **04. Tailored to Channel and Content Type**
-
-Our new brand voice will come out more in some channels and content types than others. If we are overly "challenging" on all of our content, it may come across as aggressive and unwelcoming. See next page for more details.
-
-## **Tone of Voice Spectrum**
-
-Our voice underpins everything we say in the market. But our tone will vary from channel to channel depending on what our audiences need from us. Even at our most challenging, we support marketers as best we can. On the left, at our most supportive, we're challenging marketers to be bold and do more.
-
-10% CHALLENGING / 90% SUPPORTIVE
-
-- CS TEAM
-- CONNECT.ACT-ON.COM
-
-30% CHALLENGING / 70% SUPPORTIVE
-
-- CUSTOMER MARKETING
-- PRODUCT
-
-50% CHALLENGING / 50% SUPPORTIVE
-
-- WEBINAR
-- EBOOKS
-- PR
-- WEBSITE
-
-70% CHALLENGING / 30% SUPPORTIVE
-
-- BLOGS
-- EMAIL MKTG
-
-90% CHALLENGING / 10% SUPPORTIVE
-
-- VIDEO
-- SOCIAL
-- ADVERTISING'''
+from typing import Dict
+
+# Blog categories
+CATEGORIES = [
+    "ABM", "AI and Marketing", "Analytics and Reporting",
+    "Automation Technology & Strategy", "B2B Marketing",
+    "Content Marketing", "Corporate", "Customer Journey",
+    "Customer Marketing", "Data Management and Reporting",
+    "Demand and Lead Generation", "Email Deliverability",
+    "Email Marketing", "Events Marketing", "Financial Marketing",
+    "Financial Services Marketing", "Lead Management",
+    "Manufacturing Marketing", "Marketing Automation",
+    "Marketing Integrations", "Marketing Strategy",
+    "Multi-Channel Marketing", "Personalization", "Podcast",
+    "Public Relations", "Sales and Marketing Alignment",
+    "Search Engine Optimization", "SMS Marketing",
+    "Social Media Marketing", "Uncategorized", "Web"
+]
+
+# Use case definitions - please replace with actual use cases from CSV
+# Use case definitions
+USE_CASES: Dict[str, str] = {
+    "Convert unknown visitors to know leads": "Content about how marketing teams can learn about the visitors to their website and convince them to fill out a lead generation form in order to convert them to a lead. This content will be about identifying prospects at the top of the marketing funnel and beginning of the customer journey. It does not deal with conversion further down the funnel from an interested buyer to a sale.",
+
+    "Identify and target audience segments": "Content about segmentation in the marketing prospect's journey. This content helps marketers define their segments and segmentation strategy, including how to identify and create audience personas. It also deals with how to match specific marketing tactics to segments who are likely to find the content engaging and informative on their way to making a purchase.",
+
+    "Reach new prospects through omni-channel campaigns": "Content about integrated omnichannel or multichannel campaigns and how to plan, create, execute and launch them. This content should focus on new prospoects at the top of the marketing funnel. How can marketing teams appeal to these customers through advertising, social media, video, and other channels of importance to digital marketers.",
+
+    "Personalize outreach and communication": "Content specifically about personalization, whether that's personalized web content, personalized email campaigns, personalized long form content such as articles, blogs, ebooks, and whitepapers. Personalization should be the focus of this content, not simply the outreach and communication itself. If there is not information about how to personalize content, it should not be included here.",
+
+    "Nurture prospects into opportunities": "Content focused on nurturing prospects in the marketing funnel from a prospect to a lead, and from a lead into an opportunity. This content includes anything focused on nurturing campaigns, including email sequences and other forms of marketing nurture. It also includes information on moving leads from the top of the funnel to the middle of the funnel, and from there to the bottom of the funnel. Most content on email nurtures would fall into this category, but that content might be better categorized in other use cases as well.",
+
+    "Deliver the best leads to sales": "This content focuses on handing off leads to sales, including the specific tactical advice for which tools and software to use to actually move those leads across to the sales team. This could include integrations content or content about how to use your marketing automation in conjunction with your CRM (customer-relationship management) database. It also includes content focused on building the working relationship with sales and how marketing and sales can collaborate to evaluate and score leads.",
+
+    "Scale demand generation operations": "This content is not necessarily about demand gen strategy in general. It is more accurately about the \"scale\" and \"operations\" part of the use case phrase. This content will focus on time-saving techniques and automated features that can help marketers accomplish more with fewer resources and less time (such as automated journeys, campaign flows). This might include templates, tools, adding to the tech stack, fixing and troubleshooting connections between software in the tech stack. Most content on marketing operations would fit in this use case category as well.",
+
+    "Welcome and onboard new customers": "This use case is focused on customer onboarding and making customers feel welcome, particularly for service-based businesses and the SaaS industry. However, any industry can use good customer relationship building tactics. Topics here might include email and other welcome campaigns, customer training, customer onboarding, and anything focused on the very start of the customer relationship.",
+
+    "Drive product adoption & usage": "This customer marketing topic applies primarily to SaaS and other service-based companies. Adoption is a pain point for many companies that operate software platforms, particularly if the products that provide the most value for customers are less utilized. Most content about marketing and selling to current customers can fit into this use case, but it must be focused on getting customers to use and get the most o the product. Cross-sell and up-sell content belongs in the use case with that name.",
+
+    "Engage customers with regular communication": "Broadly, this use case includes content about customer communications/comms. Topics might include social media that is meant for customers, community building, customer surveys, customer newsletters and other channels that are specifically for customers.",
+
+    "Automate customer renewal": "This use case focuses on customer renewal in general. Any content on how to renew customers under annualized service contracts fits here. Automating this process is an important part of the use case, but any content on customer renewal, even if it doesn't deal extensively with automation tasks, should be included here.",
+
+    "Grow advocates; build loyalty": "This category focuses on customer advocacy and loyalty. That includes content about brand loyalty and how to use branding and marketing to make customers move beyond using your product and recommending it to others, and renewing business in future years.",
+
+    "Automate internal & partner communications": "This focuses specifically on internal communications and partner communications managed by marketing teams. The automation is an important element of this, but content that deals with internal and partner communications without a strong emphases on automation should also be included.",
+
+    "Cross-sell and upsell": "This use case focuses on cross-sell, selling more products to existing customers; and upsell, selling a higher product tier to existing customers. Content should focus mostly on the cross-sell and up-sell activity and advice to be included here. Otherwise it should be included in one of the other use cases focused on current customers.",
+
+    "Improve marketing performance": "This use case focuses on improving marketing performance from a metrics standpoint. Any focus on improving a marketing performance metric or KPI can be included here, such as customer lifetime value (CLV), cost-per-lead, meeting monthly or annual lead or account target numbers, improving conversion rates, and etc. Content that deals primarily with KPIs and performance of the marketing org is to be included. If content mentions KPIs or specific metrics but only in passing, it should not be included. Content focused on a specific marketing area or channel will likely not be included, unless metrics are a significant focus.",
+
+    "Be a data-driven marketing org": "This focuses on marketing data, and how to use data to drive strategic decisions for the marketing org. It is similar to the \"improve marketing performance\" category in that it deals with marketing metrics, goals, and KPIs. The difference is this category focuses on the tools and techniques employed to empower that data focus. For example, using marketing analytics platforms would be included as a topic.",
+
+    "Scale marketing output": "This use case has been combined with \"Scale demand generation operations.\" Any content on scaling marketing activities should be categorized under both use cases.",
+
+    "Create a single source of truth for Marketing": "This topic, like others in this category, is focused on data and metrics. This category focuses on the quality of the data. The single source of truth idea refers to either a CRM or marketing automation platform, or some other tool that becomes the central repository for shared data across the marketing org. Content that recommends finding a single source of truth would be included, so would content that guides users to clean up data or reconcile conflicting data from multiple platforms into a single source."
+}
+
+# Brand guidelines could also go here
+BRAND_GUIDELINES = """
+[Your brand guidelines document here]
+"""
+
+useCaseCats = {
+  "useCases": {
+    "Convert unknown visitors to know leads": {
+      "getKeepGrow": "1-GET",
+      "cmoPriority": "New customer acquisition"
+    },
+    "Identify and target audience segments": {
+      "getKeepGrow": "1-GET",
+      "cmoPriority": "New customer acquisition"
+    },
+    "Reach new prospects through omni-channel campaigns": {
+      "getKeepGrow": "1-GET",
+      "cmoPriority": "New customer acquisition"
+    },
+    "Personalize outreach and communication": {
+      "getKeepGrow": "1-GET",
+      "cmoPriority": "Build Pipeline and Accelerate Sales"
+    },
+    "Nurture prospects into opportunities": {
+      "getKeepGrow": "1-GET",
+      "cmoPriority": "Build Pipeline and Accelerate Sales"
+    },
+    "Deliver the best leads to sales": {
+      "getKeepGrow": "1-GET",
+      "cmoPriority": "Build Pipeline and Accelerate Sales"
+    },
+    "Empower Sales with account intelligence": {
+      "getKeepGrow": "1-GET",
+      "cmoPriority": "Build Pipeline and Accelerate Sales"
+    },
+    "Scale demand generation operations": {
+      "getKeepGrow": "1-GET",
+      "cmoPriority": "Build Pipeline and Accelerate Sales"
+    },
+    "Welcome and onboard new customers": {
+      "getKeepGrow": "2-KEEP",
+      "cmoPriority": "Deliver value and retain customers"
+    },
+    "Drive product adoption & usage": {
+      "getKeepGrow": "2-KEEP",
+      "cmoPriority": "Deliver value and retain customers"
+    },
+    "Engage customers with regular communication": {
+      "getKeepGrow": "2-KEEP",
+      "cmoPriority": "Deliver value and retain customers"
+    },
+    "Automate customer renewal": {
+      "getKeepGrow": "2-KEEP",
+      "cmoPriority": "Deliver value and retain customers"
+    },
+    "Grow advocates; build loyalty": {
+      "getKeepGrow": "3-GROW",
+      "cmoPriority": "Increase customer loyalty"
+    },
+    "Automate internal & partner communications": {
+      "getKeepGrow": "3-GROW",
+      "cmoPriority": "Increase customer loyalty"
+    },
+    "Cross-sell and upsell": {
+      "getKeepGrow": "3-GROW",
+      "cmoPriority": "Maximize Customer Revenue (ARPU)"
+    },
+    "Improve marketing performance": {
+      "getKeepGrow": "4-OPTIMIZE",
+      "cmoPriority": "Maximizing MROI"
+    },
+    "Be a data-driven marketing org": {
+      "getKeepGrow": "4-OPTIMIZE",
+      "cmoPriority": "Maximizing MROI"
+    },
+    "Scale marketing output": {
+      "getKeepGrow": "4-OPTIMIZE",
+      "cmoPriority": "Maximizing MROI"
+    },
+    "Create a single source of truth for Marketing": {
+      "getKeepGrow": "4-OPTIMIZE",
+      "cmoPriority": "Maximizing MROI"
+    }
+  }
+}
+
+corporate_urls = [
+    "https://act-on.com/learn/blog/rebel-instinct-podcast-episode-16-esther-flammer-wrike-cmo/",
+    "https://act-on.com/learn/blog/why-iso-27001-is-important-for-marketers/",
+    "https://act-on.com/learn/blog/european-digital-regulations/",
+    "https://act-on.com/learn/blog/automated-sms-marketing-from-act-on/",
+    "https://act-on.com/learn/blog/heres-how-our-recent-funding-allows-act-on-to-invest-in-our-customers/",
+    "https://act-on.com/learn/blog/have-you-heard-the-countdown-is-on/",
+    "https://act-on.com/learn/blog/what-is-the-ccpa-and-are-you-prepared/",
+    "https://act-on.com/learn/blog/how-to-create-a-social-media-employee-advocacy-program/",
+    "https://act-on.com/learn/blog/build-insurance-customer-loyalty-with-marketing-automation/",
+    "https://act-on.com/learn/blog/developing-and-cultivating-strong-company-values/",
+    "https://act-on.com/learn/blog/want-to-build-a-stronger-marketing-team-try-volunteering/",
+    "https://act-on.com/learn/blog/office-activities-that-spark-the-creative-process/",
+    "https://act-on.com/learn/blog/email-deliverability-101-everything-you-need-to-know-about-email-bounce-backs/",
+    "https://act-on.com/learn/blog/trustone-uses-marketing-automation-to-personalize-credit-union-marketing/",
+    "https://act-on.com/learn/blog/5-reasons-why-marketing-automation-software-implementations-fail/",
+    "https://act-on.com/learn/blog/expand-your-marketing-network-to-grow-your-business/",
+    "https://act-on.com/learn/blog/marketing-trends-to-look-out-for-in-2019/",
+    "https://act-on.com/learn/blog/trends-around-privacy-and-security-to-look-out-for-2019/",
+    "https://act-on.com/learn/blog/resources-to-help-you-execute-your-marketing-strategy-in-2019/",
+    "https://act-on.com/learn/blog/category/corporate/page/2/",
+    "https://act-on.com/learn/blog/why-your-financial-business-needs-an-application-abandonment-campaign/",
+    "https://act-on.com/learn/blog/create-a-landing-page-that-gets-results/",
+    "https://act-on.com/learn/blog/5-tips-for-more-personalized-marketing/",
+    "https://act-on.com/learn/blog/how-to-build-brand-trust-and-improve-your-lead-generation-efforts/",
+    "https://act-on.com/learn/blog/recipe-analyst-relations-success/",
+    "https://act-on.com/learn/blog/a-butterfly-flaps-its-wings-inside-a-start-up-the-initiation-and-effects-of-team-communication/",
+    "https://act-on.com/learn/blog/do-these-4-things-to-improve-your-account-based-marketing-efforts/",
+    "https://act-on.com/learn/blog/3-ways-to-use-personalized-marketing-to-attract-leads-and-improve-retention/",
+    "https://act-on.com/learn/blog/how-to-use-data-and-analytics-to-revamp-your-marketing-strategy/",
+    "https://act-on.com/learn/blog/the-marketers-ultimate-guide-to-linkedin-native-video/",
+    "https://act-on.com/learn/blog/5-ways-to-use-webinars-to-convert-more-leads-into-customers/",
+    "https://act-on.com/learn/blog/how-to-create-content-that-generates-brand-awareness-and-helps-you-reach-more-leads/",
+    "https://act-on.com/learn/blog/pulpo-media-improves-lead-generation-efforts-with-act-on/",
+    "https://act-on.com/learn/blog/gdpr-after-4-months-in-does-it-matter-tldr-yes/",
+    "https://act-on.com/learn/blog/3-sure-fire-tactics-to-attract-more-leads/",
+    "https://act-on.com/learn/blog/7-ways-to-generate-leads-with-mobile-marketing/",
+    "https://act-on.com/learn/blog/tips-for-using-data-and-analytics-to-improve-the-customer-experience-every-step-of-the-way/",
+    "https://act-on.com/learn/blog/6-reasons-crm-users-should-embrace-social-media-management/",
+    "https://act-on.com/learn/blog/how-to-build-a-b2b-following-on-twitter-2018-for-free/",
+    "https://act-on.com/learn/blog/how-to-use-micro-moments-to-capture-your-audience/",
+    "https://act-on.com/learn/blog/when-do-you-start-preparing-your-2019-marketing-plan/",
+    "https://act-on.com/learn/blog/4-ways-b2b-players-can-leverage-user-generated-content-to-attract-more-leads/",
+    "https://act-on.com/learn/blog/tips-for-better-content-measuring-your-success-and-upcoming-webinars/",
+    "https://act-on.com/learn/blog/advanced-marketing-metrics-with-easy-to-use-engagement-insights/",
+    "https://act-on.com/learn/blog/step-by-step-guide-creating-an-employee-advocacy-program/",
+    "https://act-on.com/learn/blog/how-to-create-an-organic-linkedin-b2b-marketing-strategy/",
+    "https://act-on.com/learn/blog/4-strategies-for-reestablishing-your-websites-lead-gen-magnetism/",
+    "https://act-on.com/learn/blog/win-more-leads-more-trust-and-more-engagement-with-video-marketing/",
+    "https://act-on.com/learn/blog/how-to-perform-a-2018-mid-year-marketing-assessment-with-checklists/",
+    "https://act-on.com/learn/blog/the-guide-to-a-successful-employee-advocacy-plan/",
+    "https://act-on.com/learn/blog/sla/",
+    "https://act-on.com/learn/blog/clever-conversion-tricks-for-better-landing-pages/",
+    "https://act-on.com/learn/blog/how-to-use-predictive-analytics-for-better-marketing/",
+    "https://act-on.com/learn/blog/how-to-increase-conversions-by-identifying-anonymous-website-visitors/",
+    "https://act-on.com/learn/blog/todays-cmo-is-tomorrows-ceo-candidate/",
+    "https://act-on.com/learn/blog/four-b2b-marketing-trends-that-will-define-2018/",
+    "https://act-on.com/learn/blog/gdpr-compliance-in-action-opt-in-consent-forms/",
+    "https://act-on.com/learn/blog/7-tips-for-building-successful-marketing-alliances/",
+    "https://act-on.com/learn/blog/b2b-public-relations-best-practices-to-drive-success/",
+    "https://act-on.com/learn/blog/the-magic-sauce-to-account-based-marketing-is-experimentation/",
+    "https://act-on.com/learn/blog/evolving-martech-2-0-the-adaptive-marketing-platform/",
+    "https://act-on.com/learn/blog/successfully-crossing-the-chasm-or-why-your-b2b-business-is-failing/",
+    "https://act-on.com/learn/blog/succession-planning-by-flipping-leadership-on-its-head/",
+    "https://act-on.com/learn/blog/job-hunting-how-to-wow-prospective-employers-and-yourself/",
+    "https://act-on.com/learn/blog/how-chatbots-will-transform-b2b-marketing-in-2018/",
+    "https://act-on.com/learn/blog/10-marketing-lessons-inspired-by-musician-dave-grohl/",
+    "https://act-on.com/learn/blog/3-ways-cmos-can-prepare-against-data-breaches/",
+    "https://act-on.com/learn/blog/why-content-marketing-and-ppc-are-the-laser-targeted-power-duo/",
+    "https://act-on.com/learn/blog/the-changing-role-of-chief-marketing-officer-to-tomorrows-ceo/",
+    "https://act-on.com/learn/blog/3-things-about-machine-learning-every-marketer-needs-to-know/",
+    "https://act-on.com/learn/blog/seo-strategies-and-b2b-trends-to-watch-for-in-2018/",
+    "https://act-on.com/learn/blog/5-tips-to-implement-in-your-account-based-marketing-strategy/",
+    "https://act-on.com/learn/blog/the-cmo-chief-customer-officer-the-beyonce-jay-z-of-the-c-suite/",
+    "https://act-on.com/learn/blog/embrace-artificial-intelligence-in-marketing/",
+    "https://act-on.com/learn/blog/making-sense-of-the-2018-marketing-predictions-and-trends/",
+    "https://act-on.com/learn/blog/career-in-a-data-driven-marketing-world/",
+    "https://act-on.com/learn/blog/know-your-cmo-getting-acquainted-with-act-ons-michelle-huff/",
+    "https://act-on.com/learn/blog/how-machine-learning-is-transforming-shopping/",
+    "https://act-on.com/learn/blog/gdprs-new-data-protection-officer-role/",
+    "https://act-on.com/learn/blog/how-silicon-valley-can-lose-the-embarrassing-frat-boy-image-and-get-its-act-together/",
+    "https://act-on.com/learn/blog/increase-your-website-traffic-with-these-killer-marketing-hacks/",
+    "https://act-on.com/learn/blog/10-insider-tips-to-successful-video-marketing/",
+    "https://act-on.com/learn/blog/top-data-driven-marketing-trends-were-keeping-an-eye-on/",
+    "https://act-on.com/learn/blog/are-you-making-these-5-critical-landing-page-mistakes/",
+    "https://act-on.com/learn/blog/crafting-an-exceptional-statement-to-keep-you-on-mission/",
+    "https://act-on.com/learn/blog/inside-act-on-preparing-for-gdpr-compliance/",
+    "https://act-on.com/learn/blog/5-powerful-ways-to-use-social-proof-in-content-marketing/",
+    "https://act-on.com/learn/blog/how-does-the-cmo-role-look-different-in-the-us-when-compared-to-the-uk/",
+    "https://act-on.com/learn/blog/improve-sales-marketing-seo-and-more-with-sales-call-analysis/",
+    "https://act-on.com/learn/blog/get-sht-done-building-buyer-personas-in-3-steps/",
+    "https://act-on.com/learn/blog/engagement-insights-easily-delivers-marketing-metrics-you-care-about/",
+    "https://act-on.com/learn/blog/8-marketing-podcasts-you-should-subscribe-to-and-listen-to/",
+    "https://act-on.com/learn/blog/total-solar-eclipse-brings-team-together-across-offices/",
+    "https://act-on.com/learn/blog/7-of-the-best-marketing-books-you-must-read-now/",
+    "https://act-on.com/learn/blog/putting-the-person-in-personalization/",
+    "https://act-on.com/learn/blog/smart-strategies-that-give-your-smb-marketing-a-boost/",
+    "https://act-on.com/learn/blog/the-gray-area-of-terms-of-service-influencer-marketing-and-seo/",
+    "https://act-on.com/learn/blog/6-tips-to-more-powerful-social-selling/",
+    "https://act-on.com/learn/blog/the-powerful-guide-to-seo-for-startups-and-small-businesses/",
+    "https://act-on.com/learn/blog/marketers-just-want-to-market-heres-how/",
+    "https://act-on.com/learn/blog/getting-smarter-about-pipeline-marketing/",
+    "https://act-on.com/learn/blog/how-to-set-up-a-killer-google-analytics-dashboard/",
+    "https://act-on.com/learn/blog/5-powerful-newsletters-that-teach-more-than-a-college-degree/",
+    "https://act-on.com/learn/blog/talent-management-interview-talking-martech-careers-with-michelle-huff-cmo-at-act-on-software/",
+    "https://act-on.com/learn/blog/countdown-to-gdpr-%e2%80%95-are-you-ready/",
+    "https://act-on.com/learn/blog/how-human-creativity-plays-a-role-in-ai/",
+    "https://act-on.com/learn/blog/5-key-elements-of-a-winning-employee-advocacy-program/",
+    "https://act-on.com/learn/blog/google-fact-check-feature-what-it-means-for-your-online-efforts/",
+    "https://act-on.com/learn/blog/optimize-your-keyword-research-and-rankings-with-semrush/",
+    "https://act-on.com/learn/blog/how-to-conduct-an-audit-of-your-marketing-efforts-in-9-steps/",
+    "https://act-on.com/learn/blog/5-powerful-tips-to-optimize-for-googles-featured-snippets/",
+    "https://act-on.com/learn/blog/enough-is-enough-in-the-approval-process-when-to-sign-your-name-and-ship-it/",
+    "https://act-on.com/learn/blog/nervous-on-camera-consider-using-a-teleprompter-for-your-next-b2b-video/",
+    "https://act-on.com/learn/blog/how-to-develop-a-brand-voice-you-can-live-with/",
+    "https://act-on.com/learn/blog/back-to-basics-a-primer-on-marketing-metrics/",
+    "https://act-on.com/learn/blog/our-customers-share-why-they-love-having-act-on-on-their-side/",
+    "https://act-on.com/learn/blog/you-need-to-understand-these-6-things-about-what-b2b-buyers-want/",
+    "https://act-on.com/learn/blog/make-your-marketing-more-efficient-with-repeatable-processes/",
+    "https://act-on.com/learn/blog/optimize-success-by-balancing-inbound-and-outbound-marketing/",
+    "https://act-on.com/learn/blog/summer-marketing-strategies-to-make-your-business-stand-out-online-offline/",
+    "https://act-on.com/learn/blog/how-to-use-social-media-to-convert-more-b2b-leads-with-daniel-kushner/",
+    "https://act-on.com/learn/blog/the-importance-of-personalization-in-the-b2b-buying-journey/",
+    "https://act-on.com/learn/blog/inside-act-on-10-step-guide-to-rebuilding-your-lead-to-revenue-funnel/",
+    "https://act-on.com/learn/blog/7-tips-for-using-buyer-personas-in-lead-nurturing/",
+    "https://act-on.com/learn/blog/the-modern-marketers-new-executive-dashboard-with-matt-heinz/",
+    "https://act-on.com/learn/blog/how-to-get-more-search-engine-traffic-to-your-landing-pages/",
+    "https://act-on.com/learn/blog/how-to-drive-sales-effectiveness-with-automation/",
+    "https://act-on.com/learn/blog/inside-act-on-defining-our-convictions-for-growth-and-success/",
+    "https://act-on.com/learn/blog/creating-a-profit-center-marketing-department-an-interview-with-matt-heinz-part-1/",
+    "https://act-on.com/learn/blog/why-you-need-a-creative-workflow-process/",
+    "https://act-on.com/learn/blog/seo-experts-you-should-be-following-in-2017/",
+    "https://act-on.com/learn/blog/5-ways-to-use-earned-media-to-increase-seo/",
+    "https://act-on.com/learn/blog/the-benefits-of-retargeting-for-b2b/",
+    "https://act-on.com/learn/blog/5-tips-for-building-a-high-performance-marketing-plan/",
+    "https://act-on.com/learn/blog/part-2-link-building-and-seo-strategies-to-resurrect-in-2017/",
+    "https://act-on.com/learn/blog/11-marketing-lessons-learned-from-hollywood/",
+    "https://act-on.com/learn/blog/tying-your-b2b-marketing-to-revenue-attribution/",
+    "https://act-on.com/learn/blog/market-your-own-marketing-effective-ways-to-share-your-work/",
+    "https://act-on.com/learn/blog/why-plan-a-social-media-takeover/",
+    "https://act-on.com/learn/blog/three-key-changes-to-the-digital-compliance-landscape-including-gdpr/",
+    "https://act-on.com/learn/blog/link-building-and-seo-strategies-to-resurrect-in-2017-part-1/",
+    "https://act-on.com/learn/blog/the-silent-marketing-roadblock-choice/",
+    "https://act-on.com/learn/blog/how-to-get-more-leads-from-social-media/",
+    "https://act-on.com/learn/blog/10-tension-deflection-tactics-for-stressed-out-marketers/",
+    "https://act-on.com/learn/blog/7-steps-to-achieving-optimal-sales-marketing-alignment/",
+    "https://act-on.com/learn/blog/7-ways-that-brands-can-leverage-instagram-stories/",
+    "https://act-on.com/learn/blog/what-steve-jobs-can-teach-us-about-marketing-in-2017/",
+    "https://act-on.com/learn/blog/5-ways-to-maximize-your-mobile-marketing-strategy/",
+    "https://act-on.com/learn/blog/why-b2b-brands-are-stepping-up-influencer-marketing-campaigns-in-2017/",
+    "https://act-on.com/learn/blog/how-to-entice-your-clients-to-join-the-marketing-automation-party/",
+    "https://act-on.com/learn/blog/16-greats-of-16-the-years-best-business-books-for-marketers/",
+    "https://act-on.com/learn/blog/the-10-best-marketing-action-blogs-of-2016/",
+    "https://act-on.com/learn/blog/5-psychology-principles-every-marketer-should-know/",
+    "https://act-on.com/learn/blog/play-time-why-you-should-add-gamification-to-your-content-strategy/",
+    "https://act-on.com/learn/blog/six-words-that-instantly-drive-more-results/",
+    "https://act-on.com/learn/blog/measuring-year-end-marketing-kpis-wheres-the-data/",
+    "https://act-on.com/learn/blog/planning-for-the-new-year-how-to-create-an-editorial-calendar/",
+    "https://act-on.com/learn/blog/industry-leaders-weigh-in-on-upcoming-marketing-trends-for-2017-and-beyond/",
+    "https://act-on.com/learn/blog/5-simple-ways-to-harness-more-attention-from-sharing-content-on-linkedin/",
+    "https://act-on.com/learn/blog/10-iot-considerations-for-seo-other-digital-marketing-strategies/",
+    "https://act-on.com/learn/blog/how-the-internet-of-things-is-changing-marketing-forever/",
+    "https://act-on.com/learn/blog/direct-mail-is-not-dead-top-4-ways-to-integrate-digital-and-direct-mail/",
+    "https://act-on.com/learn/blog/6-things-to-consider-when-creating-your-2017-marketing-plan/",
+    "https://act-on.com/learn/blog/menu-planning-your-marketing-mix/",
+    "https://act-on.com/learn/blog/an-introductory-guide-to-googles-search-console/",
+    "https://act-on.com/learn/blog/why-you-need-a-style-guide-and-how-to-make-one/",
+    "https://act-on.com/learn/blog/a-salute-on-this-veteransday/",
+    "https://act-on.com/learn/blog/should-you-optimize-content-for-google-amp/",
+    "https://act-on.com/learn/blog/how-to-create-a-successful-webinar-start-by-asking-these-7-questions/",
+    "https://act-on.com/learn/blog/how-to-create-social-media-and-content-marketing-synergy/",
+    "https://act-on.com/learn/blog/20-twitter-tricks-for-b2bers-who-want-to-up-their-game/",
+    "https://act-on.com/learn/blog/the-perils-pleasures-of-rebranding-the-puppet-story/",
+    "https://act-on.com/learn/blog/the-crash-course-in-mobile-content-every-marketer-needs-now/",
+    "https://act-on.com/learn/blog/neuromarketing-using-neuroscience-to-supercharge-results/",
+    "https://act-on.com/learn/blog/do-you-mind-the-clock-or-does-time-mind-you/",
+    "https://act-on.com/learn/blog/hiring-the-perfect-person-to-run-your-social-media/",
+    "https://act-on.com/learn/blog/5-powerful-tips-to-create-an-amazing-call-to-action/",
+    "https://act-on.com/learn/blog/podcast-listeners-grow-by-23-percent-does-it-make-sense-for-your-marketing-strategy/",
+    "https://act-on.com/learn/blog/7-things-you-need-to-know-about-optimizing-for-mobile-in-2016/",
+    "https://act-on.com/learn/blog/inbound-marketing-or-outbound-which-is-the-winner/",
+    "https://act-on.com/learn/blog/digital-marketing-agencies-how-theyre-changing/",
+    "https://act-on.com/learn/blog/three-myths-and-misconceptions-about-email-automation/",
+    "https://act-on.com/learn/blog/why-snapchat-might-be-your-next-b2b-marketing-tool/",
+    "https://act-on.com/learn/blog/how-to-create-an-engaging-and-effective-presentation/",
+    "https://act-on.com/learn/blog/youtube-views-dont-matter-here-are-5-metrics-that-do/",
+    "https://act-on.com/learn/blog/5-ways-outbound-and-inbound-marketing-complement-each-other/",
+    "https://act-on.com/learn/blog/marketing-jobs-the-outlook-is-still-bright/",
+    "https://act-on.com/learn/blog/7-confessions-of-a-digital-marketer-and-how-they-can-make-you-a-better-marketer/",
+    "https://act-on.com/learn/blog/how-to-tie-your-content-marketing-into-your-account-based-marketing/",
+    "https://act-on.com/learn/blog/back-to-school-lets-keep-our-kids-safe-online/",
+    "https://act-on.com/learn/blog/4-benefits-to-a-multi-generational-workplace/",
+    "https://act-on.com/learn/blog/should-social-marketing-still-get-your-vote/",
+    "https://act-on.com/learn/blog/how-to-hire-the-perfect-person-to-run-your-seo/",
+    "https://act-on.com/learn/blog/10-ted-talks-to-watch-to-be-a-better-marketer/",
+    "https://act-on.com/learn/blog/metrics-to-help-you-track-brand-demand-and-expand/",
+    "https://act-on.com/learn/blog/7-seo-tactics-most-marketers-ignore/",
+    "https://act-on.com/learn/blog/how-your-smb-company-can-adopt-abm-tactics/",
+    "https://act-on.com/learn/blog/8-killer-tips-for-more-better-earned-media/",
+    "https://act-on.com/learn/blog/how-developing-a-sales-team-is-like-professional-football/",
+    "https://act-on.com/learn/blog/advanced-retargeting-nurturing-your-audience-across-digital-channels/",
+    "https://act-on.com/learn/blog/inside-the-mysterious-world-of-dark-social/",
+    "https://act-on.com/learn/blog/six-takeaways-from-the-writing-of-the-declaration-of-independence/",
+    "https://act-on.com/learn/blog/how-to-focus-your-marketing-efforts-through-tofu-mofu-and-bofu-stages/",
+    "https://act-on.com/learn/blog/when-the-tweet-hits-the-fan-b2b-best-practices-for-when-trolls-attack/",
+    "https://act-on.com/learn/blog/keep-calm-and-email-on-what-the-success-of-brexit-means-to-marketers/",
+    "https://act-on.com/learn/blog/how-to-increase-roi-and-conversion-from-youtube-ads/",
+    "https://act-on.com/learn/blog/the-psychology-of-color-in-marketing/",
+    "https://act-on.com/learn/blog/how-to-find-the-best-influencers-for-your-company/",
+    "https://act-on.com/learn/blog/the-evolution-of-account-based-marketing/",
+    "https://act-on.com/learn/blog/protect-yourself-your-clients-from-identity-data-theft/",
+    "https://act-on.com/learn/blog/7-tips-to-supercharge-your-content-on-linkedin-pulse/",
+    "https://act-on.com/learn/blog/agency-focus-how-content-marketing-is-changing-how-to-measure-it/",
+    "https://act-on.com/learn/blog/5-ways-b2b-marketers-can-learn-to-love-facebook/",
+    "https://act-on.com/learn/blog/3-tips-to-shrink-your-long-enterprise-sales-cycle/",
+    "https://act-on.com/learn/blog/b2b-ad-retargeting-re-engage-website-visitors-without-breaking-the-budget/",
+    "https://act-on.com/learn/blog/how-a-bakers-dozen-years-changed-email-deliverability/",
+    "https://act-on.com/learn/blog/smart-agency-tips-how-to-design-better-websites-for-your-clients/",
+    "https://act-on.com/learn/blog/10-ways-to-misbehave-on-linkedin/",
+    "https://act-on.com/learn/blog/digital-darwinism-where-do-you-stand/",
+    "https://act-on.com/learn/blog/account-based-marketing-by-the-numbers/",
+    "https://act-on.com/learn/blog/how-to-protect-your-email-list-health-and-deliverability/",
+    "https://act-on.com/learn/blog/email-unsubscribers-keep-the-bad-out-and-the-good-in/",
+    "https://act-on.com/learn/blog/boost-your-demand-gen-mix-with-account-based-marketing/",
+    "https://act-on.com/learn/blog/how-email-marketing-campaigns-are-like-the-u-s-elections/",
+    "https://act-on.com/learn/blog/spring-sending-time-for-a-fresh-start/",
+    "https://act-on.com/learn/blog/how-major-brands-are-winning-through-episodic-content/",
+    "https://act-on.com/learn/blog/7-things-you-may-not-know-about-googles-rankbrain/",
+    "https://act-on.com/learn/blog/10-ways-to-have-more-efficient-meetings/",
+    "https://act-on.com/learn/blog/agencies-under-pressure-to-be-more-digital/",
+    "https://act-on.com/learn/blog/10-people-you-should-follow-on-twitter-if-youre-in-marketing/",
+    "https://act-on.com/learn/blog/8-killer-tips-for-harnessing-the-power-of-slideshare/",
+    "https://act-on.com/learn/blog/why-you-should-consider-using-twitter-for-b2b-leads/",
+    "https://act-on.com/learn/blog/how-adopting-seo-best-practices-will-increase-your-brand-awareness-and-drive-sales/",
+    "https://act-on.com/learn/blog/political-social-media-outreach-what-b2b-marketers-can-learn/",
+    "https://act-on.com/learn/blog/temporary-disposable-email-addresses-their-effect-on-deliverability/",
+    "https://act-on.com/learn/blog/7-myths-about-social-selling-that-you-probably-believe/",
+    "https://act-on.com/learn/blog/got-dynamics-why-you-need-act-on-too/",
+    "https://act-on.com/learn/blog/what-marketers-can-learn-from-thomas-friedmans-advice-for-the-rest-of-us/",
+    "https://act-on.com/learn/blog/top-instagram-influencers/",
+    "https://act-on.com/learn/blog/the-state-of-social-media-engagement-and-3-proven-ways-to-boost-it/",
+    "https://act-on.com/learn/blog/how-clean-is-your-database/",
+    "https://act-on.com/learn/blog/schema-microdata-an-overview/",
+    "https://act-on.com/learn/blog/icharts-applies-marketing-automation-to-smart-strategy-to-deliver-record-opportunities/",
+    "https://act-on.com/learn/blog/5-common-marketing-challenges-agencies-and-companies-face/",
+    "https://act-on.com/learn/blog/how-smart-people-do-social-selling/",
+    "https://act-on.com/learn/blog/layered-approach-to-digital-marketing-helps-deliver-33-more-leads-for-rm-hoffman/",
+    "https://act-on.com/learn/blog/todays-cmo-needs-a-few-cto-chops/",
+    "https://act-on.com/learn/blog/how-and-why-to-set-your-site-up-for-googles-rich-answers/",
+    "https://act-on.com/learn/blog/tactical-link-building-strategies-for-2016/",
+    "https://act-on.com/learn/blog/nofollow-tags-what-they-are-and-why-they-matter/",
+    "https://act-on.com/learn/blog/a-valentine-for-marketers/",
+    "https://act-on.com/learn/blog/sb50-postmortem-what-we-can-learn-from-super-bowl-social-marketing/",
+    "https://act-on.com/learn/blog/why-brand-consistency-matters-to-b2b-companies-1-brand-seo-hack/",
+    "https://act-on.com/learn/blog/graymail-navigating-email-purgatory/",
+    "https://act-on.com/learn/blog/segmentation-5-steps-to-help-you-send-emails-that-your-prospects-actually-want-to-read/",
+    "https://act-on.com/learn/blog/time-management-put-time-on-your-side/",
+    "https://act-on.com/learn/blog/good-no-great-things-come-in-threes-build-a-winning-trio-for-customer-success/",
+    "https://act-on.com/learn/blog/new-year-new-email-ip-address/",
+    "https://act-on.com/learn/blog/agency-bottom-line-boosters-for-marketing-agencies-to-adopt-in-the-new-year/",
+    "https://act-on.com/learn/blog/four-trends-elevating-marketing-as-the-key-business-engine/",
+    "https://act-on.com/learn/blog/making-seo-a-priority-during-website-launch-planning/",
+    "https://act-on.com/learn/blog/the-year-in-marketing-2015s-top-stories-2016s-likely-trends/",
+    "https://act-on.com/learn/blog/3-levels-of-data-analysis-to-revitalize-your-automated-email-programs-in-2016/",
+    "https://act-on.com/learn/blog/a-digital-marketers-list-of-2016-new-years-resolutions/",
+    "https://act-on.com/learn/blog/5-predictions-for-seo-in-2016/",
+    "https://act-on.com/learn/blog/email-deliverability-whats-coming-in-2016/",
+    "https://act-on.com/learn/blog/tips-to-improve-customer-loyalty-necessity-is-the-mother-of-retention/",
+    "https://act-on.com/learn/blog/dont-neglect-the-middle-and-bottom-of-the-marketing-funnel/",
+    "https://act-on.com/learn/blog/supply-chain-consulting-firm-uses-marketing-automation-to-facilitate-channel-change/",
+    "https://act-on.com/learn/blog/an-introductory-guide-to-mobile-for-b2b-marketers/",
+    "https://act-on.com/learn/blog/keywords-matter-keywords-dont-matter-how-to-make-sense-of-seo-evolution/",
+    "https://act-on.com/learn/blog/what-the-2015-holiday-shopping-season-can-teach-us-about-the-new-buyers-journey/",
+    "https://act-on.com/learn/blog/12-brilliant-ways-to-save-time-on-social-media/",
+    "https://act-on.com/learn/blog/marketing-challenges-in-regulated-industries-part-1-pharma-alcohol-tobacco/",
+    "https://act-on.com/learn/blog/youve-signed-your-new-marketing-agency-now-what/",
+    "https://act-on.com/learn/blog/how-to-earn-links-for-better-seo-more-audience/",
+    "https://act-on.com/learn/blog/tis-the-season-to-be-thankful-thanksgiving-2015/",
+    "https://act-on.com/learn/blog/googles-new-gmail-security-feature/",
+    "https://act-on.com/learn/blog/how-to-apply-lifecycle-marketing-for-your-agency-clients/",
+    "https://act-on.com/learn/blog/what-to-do-with-1000-5000-or-10000-or-no-social-media-budget/",
+    "https://act-on.com/learn/blog/the-blame-game-open-rates-vs-deliverability/",
+    "https://act-on.com/learn/blog/8-tips-and-a-few-more-resources-for-holiday-marketing/",
+    "https://act-on.com/learn/blog/17-realistic-ways-to-get-more-website-traffic/",
+    "https://act-on.com/learn/blog/act-on-announces-new-ceo-andy-macmillan-and-new-cto-role-for-founder-raghu-raghavan/",
+    "https://act-on.com/learn/blog/treats-or-tricks-13-timeless-marketing-horrors/",
+    "https://act-on.com/learn/blog/not-your-fathers-rebrand-can-the-old-be-new-again/",
+    "https://act-on.com/learn/blog/how-to-select-the-right-marketing-agency-for-your-business/",
+    "https://act-on.com/learn/blog/the-7-deadly-sins-of-data/",
+    "https://act-on.com/learn/blog/how-to-perform-a-social-media-audit-measure-what-matters/",
+    "https://act-on.com/learn/blog/the-act-on-email-deliverability-glossary-part-2/",
+    "https://act-on.com/learn/blog/do-you-market-to-countries-in-the-eu-the-safe-harbor-agreement-has-been-struck-down-this-may-affect-you/",
+    "https://act-on.com/learn/blog/the-act-on-email-deliverability-glossary-part-1/",
+    "https://act-on.com/learn/blog/gap-analysis-fill-the-holes-in-your-clients-marketing-programs/",
+    "https://act-on.com/learn/blog/search-ranking-factors-2015-and-beyond/",
+    "https://act-on.com/learn/blog/advocates-and-influencers-differences-uses-and-red-flags/",
+    "https://act-on.com/learn/blog/5-ways-mobile-marketing-is-affecting-social-media/",
+    "https://act-on.com/learn/blog/how-do-i-prepare-for-marketing-automation/",
+    "https://act-on.com/learn/blog/11-website-design-trends-you-need-to-know-about/",
+    "https://act-on.com/learn/blog/whats-marketing-operations-just-the-fastest-growing-role-in-business/",
+    "https://act-on.com/learn/blog/three-content-strategies-for-responsive-web-design-plan-prioritize-distill/",
+    "https://act-on.com/learn/blog/how-to-generate-leads-using-quizzes/",
+    "https://act-on.com/learn/blog/12-experts-explain-the-significance-of-the-new-front-office/",
+    "https://act-on.com/learn/blog/be-the-end-of-quarter-secret-weapon/",
+    "https://act-on.com/learn/blog/marketing-jobs-the-outlook-is-bright/",
+    "https://act-on.com/learn/blog/how-to-perform-an-onsite-seo-audit-part-5-rinse-repeat/",
+    "https://act-on.com/learn/blog/im-a-marketer-why-should-i-care-about-sales/",
+    "https://act-on.com/learn/blog/5-myths-of-social-media-marketing/",
+    "https://act-on.com/learn/blog/marketers-3-ways-to-make-sales-based-business-intelligence-work-for-you/",
+    "https://act-on.com/learn/blog/do-hackers-have-your-stolen-data-find-out/",
+    "https://act-on.com/learn/blog/did-a-company-share-your-information-w-o-your-consent-the-ftc-wants-to-know/",
+    "https://act-on.com/learn/blog/how-to-perform-an-onsite-audit-for-seo-part-4-improvement/",
+    "https://act-on.com/learn/blog/buying-marketing-technology-whose-recommendations-do-you-trust/",
+    "https://act-on.com/learn/blog/how-to-get-a-bigger-bang-from-your-press-releases/",
+    "https://act-on.com/learn/blog/digital-debris-why-data-needs-an-expiration-date/",
+    "https://act-on.com/learn/blog/fun-with-mnemonics-set-smart-marketing-goals/",
+    "https://act-on.com/learn/blog/good-forms-great-leads-how-to-use-web-forms-strategically/",
+    "https://act-on.com/learn/blog/6-things-you-could-do-right-with-facebook-ads/",
+    "https://act-on.com/learn/blog/join-the-i%e2%99%a5marketing-roadshow-next-stop-july-9-in-boston/",
+    "https://act-on.com/learn/blog/how-to-perform-an-onsite-audit-for-seo-part-3-take-action/",
+    "https://act-on.com/learn/blog/your-email-list-when-less-as-in-fewer-is-more-as-in-results/",
+    "https://act-on.com/learn/blog/seo-for-alternative-content-types-part-5-questions-and-answers/",
+    "https://act-on.com/learn/blog/big-data-can-help-your-email-deliverability/",
+    "https://act-on.com/learn/blog/five-areas-where-b2b-marketers-can-leverage-big-data/",
+    "https://act-on.com/learn/blog/how-to-perform-an-onsite-audit-for-seo-part-2-do-the-analysis/",
+    "https://act-on.com/learn/blog/a-crash-course-in-tumblr-for-b2b-marketers/",
+    "https://act-on.com/learn/blog/join-the-i%e2%99%a5marketing-roadshow-next-stop-june-3-in-los-angeles/",
+    "https://act-on.com/learn/blog/are-you-compliant-with-global-email-marketing-regulations/",
+    "https://act-on.com/learn/blog/join-the-i%e2%99%a5marketing-roadshow-next-stop-atlanta-may-28/",
+    "https://act-on.com/learn/blog/5-disruptive-social-selling-technologies/",
+    "https://act-on.com/learn/blog/dont-panic-how-to-handle-a-social-media-marketing-crisis/",
+    "https://act-on.com/learn/blog/seriously-chill-on-the-cold-calling/",
+    "https://act-on.com/learn/blog/long-tail-keywords-win-at-seo-and-acquire-more-qualified-leads/",
+    "https://act-on.com/learn/blog/how-to-perform-an-onsite-audit-for-seo-part-1-do-the-research/",
+    "https://act-on.com/learn/blog/ask-the-hr-experts-part-2-3-tips-for-hiring-marketing-and-sales-teams/",
+    "https://act-on.com/learn/blog/road-trip-join-the-i%e2%99%a5marketing-roadshow-coming-soon-to-a-city-near-you/",
+    "https://act-on.com/learn/blog/ask-the-hr-experts-part-1-5-tips-for-marketing-and-sales-job-seekers/",
+    "https://act-on.com/learn/blog/nurturing-leads-with-webinars-awareness-is-just-the-beginning/",
+    "https://act-on.com/learn/blog/googles-mobile-search-update-are-you-ready-for-april-21/",
+    "https://act-on.com/learn/blog/translate-your-killer-plan-into-day-to-day-marketing-tactics/",
+    "https://act-on.com/learn/blog/from-intern-to-beyond-how-to-stand-out-in-the-new-marketing-career-landscape/",
+    "https://act-on.com/learn/blog/insights-from-gleanster-act-on-report-the-trouble-with-marketing-technology/",
+    "https://act-on.com/learn/blog/landing-page-fundamentals-part-2-creating-great-copy-and-compelling-offers/",
+    "https://act-on.com/learn/blog/how-to-optimize-a-blog-post-no-seo-wizards-hat-required/",
+    "https://act-on.com/learn/blog/top-10-takeaways-from-the-rethinking-the-role-of-marketing-report-as-tweetable-stats/",
+    "https://act-on.com/learn/blog/landing-pages-that-convert-part-1-the-basics-of-design/",
+    "https://act-on.com/learn/blog/get-found-faster-10-tips-for-successful-local-seo/",
+    "https://act-on.com/learn/blog/marketings-bright-new-tool-act-on-anywhere/",
+    "https://act-on.com/learn/blog/keeping-customers-loyal-marketings-role-in-retention-and-expansion/",
+    "https://act-on.com/learn/blog/mobile-search-engine-optimization-best-practices/",
+    "https://act-on.com/learn/blog/the-word-of-the-year-is-a-hashtag/",
+    "https://act-on.com/learn/blog/8-ways-to-transform-linkedin-from-just-another-time-suck-to-a-qualified-lead-gen-machine/",
+    "https://act-on.com/learn/blog/ready-set-tweet-twitter-basics-for-b2b-marketers/",
+    "https://act-on.com/learn/blog/insights-from-new-gleanster-report-dealing-with-the-b2b-marketing-people-problem/",
+    "https://act-on.com/learn/blog/social-selling-101-3-social-technologies-to-get-you-started/",
+    "https://act-on.com/learn/blog/should-marketers-be-the-stewards-of-the-customer-relationships-gleanster-research-results/",
+    "https://act-on.com/learn/blog/6-ways-b2b-marketers-use-social-media-to-get-gangbuster-results/",
+    "https://act-on.com/learn/blog/3-surprising-ways-to-succeed-in-social-media/",
+    "https://act-on.com/learn/blog/how-to-use-hashtags-on-twitter-with-confidence/",
+    "https://act-on.com/learn/blog/sales-alignment-put-theory-into-practice/",
+    "https://act-on.com/learn/blog/marketing-moneyball-let-the-dallas-cowboys-help-you-scout-hidden-prospects/",
+    "https://act-on.com/learn/blog/seo-basics-a-checklist-for-content-marketers/",
+    "https://act-on.com/learn/blog/how-to-know-which-hashtags-to-use-in-your-social-media-posts/",
+    "https://act-on.com/learn/blog/4-killer-tips-to-boost-social-content-sharing/",
+    "https://act-on.com/learn/blog/buzzword-watch-stop-saying-that-really-stop/",
+    "https://act-on.com/learn/blog/what-it-takes-to-optimize-your-brands-organic-search-visibility/",
+    "https://act-on.com/learn/blog/spur-your-social-results-customize-images-in-canva/",
+    "https://act-on.com/learn/blog/5-warning-signs-that-youre-working-at-a-dysfunctional-marketing-agency/",
+    "https://act-on.com/learn/blog/why-social-selling-is-like-dating-how-to-find-a-relationship-that-works/",
+    "https://act-on.com/learn/blog/5-key-trends-that-will-shape-asia-pacific-marketing-in-2015/",
+    "https://act-on.com/learn/blog/hellooo-2015/",
+    "https://act-on.com/learn/blog/using-google-drive-to-collaborate/",
+    "https://act-on.com/learn/blog/whats-your-type-personality-tests-in-the-workplace/",
+    "https://act-on.com/learn/blog/an-act-on-conversation-blurred-lines-what-sales-marketing-will-look-like-in-2015/",
+    "https://act-on.com/learn/blog/title-tags-headings-and-you-get-tips-for-seo-success/",
+    "https://act-on.com/learn/blog/hiring-a-marketer-what-skill-set-should-you-look-for/",
+    "https://act-on.com/learn/blog/critical-rules-for-seo-success-in-2015/",
+    "https://act-on.com/learn/blog/20-social-media-terms-for-non-digital-natives/",
+    "https://act-on.com/learn/blog/making-the-connection-7-tips-to-grow-your-linkedin-network/",
+    "https://act-on.com/learn/blog/advocacy-marketing-part-2-building-plan-5-steps/",
+    "https://act-on.com/learn/blog/act-on-employees-give-thanks/",
+    "https://act-on.com/learn/blog/business-casual-how-to-navigate-the-workday-in-style/",
+    "https://act-on.com/learn/blog/advocacy-marketing-part-1-end-to-end-advantages-you-cant-shouldnt-ignore/",
+    "https://act-on.com/learn/blog/dealing-with-difficult-co-workers/",
+    "https://act-on.com/learn/blog/understanding-cookies-part-2-a-guide-for-marketers/",
+    "https://act-on.com/learn/blog/understanding-cookies-part-1-a-guide-for-consumers/",
+    "https://act-on.com/learn/blog/small-business-saturday-november-29-shop-small-and-local/",
+    "https://act-on.com/learn/blog/a-salute-to-service/",
+    "https://act-on.com/learn/blog/how-b2bs-can-beat-the-black-friday-blues/",
+    "https://act-on.com/learn/blog/does-googles-penguin-3-0-have-a-bite/",
+    "https://act-on.com/learn/blog/how-to-create-an-effective-video-marketing-strategy/",
+    "https://act-on.com/learn/blog/turning-website-visitors-into-leads/",
+    "https://act-on.com/learn/blog/survey-says-variety-paves-the-marketers-path/",
+    "https://act-on.com/learn/blog/5-rules-for-using-social-selling-to-crush-quotas-and-build-your-social-funnel/",
+    "https://act-on.com/learn/blog/lego-education-north-america-builds-a-winning-strategy-using-marketing-automation/",
+    "https://act-on.com/learn/blog/getting-down-to-business-nurturing-leads/",
+    "https://act-on.com/learn/blog/what-do-fashion-and-marketing-have-in-common/",
+    "https://act-on.com/learn/blog/semantic-search-keyword-choices-and-relevancy/",
+    "https://act-on.com/learn/blog/5-email-metrics-that-matter-to-marketers/",
+    "https://act-on.com/learn/blog/customers-are-still-king/",
+    "https://act-on.com/learn/blog/the-high-payoff-referral-question-no-one-ever-asks-but-should/",
+    "https://act-on.com/learn/blog/skip-miller-and-janelle-johnson-discuss-the-new-normal-of-lead-qualification/",
+    "https://act-on.com/learn/blog/email-etiquette-dont-sabotage-your-career/",
+    "https://act-on.com/learn/blog/dreamforce-attendees-take-the-tchotchke-tchallenge/",
+    "https://act-on.com/learn/blog/10-things-b2b-marketers-should-be-doing-on-linkedin/",
+    "https://act-on.com/learn/blog/ad-retargeting-101/",
+    "https://act-on.com/learn/blog/b2b-marketing-best-practices-for-twitter/",
+    "https://act-on.com/learn/blog/how-data-science-is-transforming-sales-and-marketing/",
+    "https://act-on.com/learn/blog/obey-facebooks-rules-of-engagement-or-else/",
+    "https://act-on.com/learn/blog/summer-seo-news-you-should-know-about-https-rich-snippets-more/",
+    "https://act-on.com/learn/blog/cohort-analysis-2-simple-steps-to-better-understand-your-leads/",
+    "https://act-on.com/learn/blog/did-i-just-get-a-google-penalty/",
+    "https://act-on.com/learn/blog/full-service-technology-vendors-marketing-automation-support-and-more/",
+    "https://act-on.com/learn/blog/nurturing-cold-social-leads-is-a-lot-like-online-dating/",
+    "https://act-on.com/learn/blog/marketing-agency-metrics-how-to-measure-what-matters/",
+    "https://act-on.com/learn/blog/a-keyword-primer-finding-and-using-keywords-effectively/",
+    "https://act-on.com/learn/blog/5-tips-for-marketing-in-a-highly-regulated-industry/",
+    "https://act-on.com/learn/blog/5-habits-of-superstar-marketers/",
+    "https://act-on.com/learn/blog/5-social-media-mistakes-you-dont-want-to-make/",
+    "https://act-on.com/learn/blog/google-penguin-recovery-from-a-manual-action/",
+    "https://act-on.com/learn/blog/category/corporate/page/21/",
+    "https://act-on.com/learn/blog/marketing-agency-leaders-discuss-the-new-agency-model-for-success/",
+    "https://act-on.com/learn/blog/how-to-use-forms-for-lead-generation/",
+    "https://act-on.com/learn/blog/5-tips-to-get-listed-in-google-news/",
+    "https://act-on.com/learn/blog/the-story-behind-the-star-spangled-banner/",
+    "https://act-on.com/learn/blog/terry-forsey-consulting-builds-business-with-marketing-automation/",
+    "https://act-on.com/learn/blog/10-tips-to-master-the-art-of-writing-micro-copy-for-social/",
+    "https://act-on.com/learn/blog/singin-the-blues-client-agency-breakup-songs-and-how-to-prevent-them-from-replaying/",
+    "https://act-on.com/learn/blog/report-from-new-york-how-agencies-are-using-marketing-automation/",
+    "https://act-on.com/learn/blog/choose-the-right-social-networks-to-boost-your-business/",
+    "https://act-on.com/learn/blog/what-sales-should-really-expect-from-marketing-automation/",
+    "https://act-on.com/learn/blog/seo-questions-from-the-fact-fiction-webinar/",
+    "https://act-on.com/learn/blog/the-cobblers-children-have-no-marketing-campaigns/",
+    "https://act-on.com/learn/blog/agile-selling-jill-konrath-and-shawn-naggiar-discuss-new-book-on-rapid-learning-and-sales/",
+    "https://act-on.com/learn/blog/deliverability-8-tips-for-getting-your-email-into-the-inbox/",
+    "https://act-on.com/learn/blog/sugarcrm-partner-sees-7x-increase-in-qualified-leads/",
+    "https://act-on.com/learn/blog/4-reasons-small-business-owners-flock-to-marketing-automation/",
+    "https://act-on.com/learn/blog/lessons-for-marketers-from-the-second-screen-experience/",
+    "https://act-on.com/learn/blog/get-found-3-tips-to-optimize-your-blog-for-seo/",
+    "https://act-on.com/learn/blog/show-them-the-money-or-at-least-the-marketing-performance-report/",
+    "https://act-on.com/learn/blog/how-can-you-use-content-to-rank-higher-in-search/",
+    "https://act-on.com/learn/blog/a-new-framework-for-sales-enablement/",
+    "https://act-on.com/learn/blog/lead-management-7-steps-to-the-process-that-creates-revenue/",
+    "https://act-on.com/learn/blog/beyond-batch-and-blast-launching-your-first-lead-nurturing-program/",
+    "https://act-on.com/learn/blog/every-page-is-a-potential-landing-page-6-tips-to-optimize-for-the-new-reality/",
+    "https://act-on.com/learn/blog/an-act-on-conversation-charles-besondy-and-leo-merle-on-how-marketing-can-contribute-to-revenue/",
+    "https://act-on.com/learn/blog/act-on-announces-42-million-in-venture-financing-led-by-technology-crossover-ventures/",
+    "https://act-on.com/learn/blog/5-ways-of-ensuring-real-roi-in-social-media/",
+    "https://act-on.com/learn/blog/7-seo-myths-marketers-should-know/",
+    "https://act-on.com/learn/blog/5-tips-for-maximizing-your-marketing-with-google-adwords/",
+    "https://act-on.com/learn/blog/how-and-why-to-use-social-media-meta-tags-part-2-of-2/",
+    "https://act-on.com/learn/blog/how-and-why-to-use-social-media-meta-tags-part-1-of-2/",
+    "https://act-on.com/learn/blog/7-tips-for-brand-consistency-across-social-channels/",
+    "https://act-on.com/learn/blog/keep-calm-and-learn-how-to-nurture-leads/",
+    "https://act-on.com/learn/blog/what-a-google-algorithm-update-can-mean-for-your-site/",
+    "https://act-on.com/learn/blog/cybersecurity-help-for-small-and-mid-sized-businesses/",
+    "https://act-on.com/learn/blog/does-social-media-influence-search-rankings/",
+    "https://act-on.com/learn/blog/an-act-on-conversation-jay-hidalgo-and-atri-chatterjee-talk-demand-generation-part-1/",
+    "https://act-on.com/learn/blog/on-the-road-to-marketing-accountability-five-kpis-you-should-start-tracking-today/",
+    "https://act-on.com/learn/blog/category/corporate/page/25/#content",
+    "https://act-on.com/lp/act-on-insite/",
+    "https://act-on.com/product/marketing-automation/",
+    "https://act-on.com/product/multichannel-marketing/",
+    "https://act-on.com/product/analytics-reporting/",
+    "https://act-on.com/product/lead-scoring/",
+    "https://act-on.com/product/artificial-intelligence/",
+    "https://act-on.com/product/lead-generation/",
+    "https://act-on.com/product/sales-marketing-alignment/",
+    "https://act-on.com/product/martech-stack-integrations/",
+    "https://act-on.com/product/act-on-insite/",
+    "https://act-on.com/product/services/",
+    "https://act-on.com/product/services/support-packages/",
+    "https://act-on.com/product/services/professional-services/",
+    "https://act-on.com/product/services/deliverability/",
+    "https://login.actonsoftware.com/acton/account/login.jsp?_gl=1*9oce39*_gcl_au*MTQ1NDg5NjcwMC4xNzI5Njg3Nzc1*_ga*ODA3MzE2MDI2LjE3MTMyOTEyOTg.*_ga_FP4DJNBFP3*MTcyOTY4Nzc3NS4zMS4xLjE3Mjk2ODc4NDEuNjAuMC4w",
+    "https://act-on.com/demo/",
+    "https://act-on.com/learn/blog/category/corporate/page/25/#",
+    "https://act-on.com/solutions/",
+    "https://act-on.com/solutions/demand-generation/",
+    "https://act-on.com/solutions/consumer-marketing/",
+    "https://act-on.com/solutions/customer-relationship-marketing/",
+    "https://act-on.com/solutions/customer-journey/",
+    "https://act-on.com/solutions/customer-experience-marketing/",
+    "https://act-on.com/solutions/loyalty-marketing/",
+    "https://act-on.com/solutions/customer-onboarding/",
+    "https://act-on.com/solutions/product-adoption/",
+    "https://act-on.com/solutions/product-marketing/",
+    "https://act-on.com/why-act-on/our-story/",
+    "https://act-on.com/partners/",
+    "https://act-on.com/hubspot-vs-act-on/",
+    "https://act-on.com/marketo-vs-act-on/",
+    "https://act-on.com/pardot-vs-act-on/",
+    "https://act-on.com/eloqua-vs-act-on/",
+    "https://act-on.com/industries/",
+    "https://act-on.com/industries/financial-services/",
+    "https://act-on.com/industries/banking/",
+    "https://act-on.com/industries/financial-advisors/",
+    "https://act-on.com/industries/insurance/",
+    "https://act-on.com/industries/manufacturing/",
+    "https://act-on.com/industries/b2b-marketing/",
+    "https://act-on.com/industries/technology/",
+    "https://act-on.com/industries/agencies/",
+    "https://act-on.com/industries/business/",
+    "https://act-on.com/Pricing",
+    "https://act-on.com/learn/content-library/",
+    "https://act-on.com/learn/blog/",
+    "https://act-on.com/learn/case-study/",
+    "https://act-on.com/learn/datasheets/",
+    "https://act-on.com/learn/ebooks-guides/",
+    "https://act-on.com/learn/press-news/",
+    "https://act-on.com/learn/on-demand-webinar/",
+    "https://act-on.com/learn/customer-resources/",
+    "https://act-on.com/product/services/training-and-certificates/",
+    "https://connect.act-on.com/hc/en-us/",
+    "https://act-on.com/events/",
+    "https://act-on.com/contact-us/",
+    "https://login.actonsoftware.com/acton/account/login.jsp",
+    "https://act-on.com/learn/blog/6-social-media-marketing-myths-to-avoid/",
+    "https://act-on.com/learn/blog/an-act-on-conversation-anneke-seley-and-shawn-naggiar-talk-inside-sales/",
+    "https://act-on.com/learn/blog/b2c-marketers-4-reasons-why-webinars-are-worth-the-investment/",
+    "https://act-on.com/learn/blog/how-to-leverage-linkedin-for-lead-generation-and-recruitment/",
+    "https://act-on.com/learn/blog/so-the-underdog-is-on-top-now/",
+    "https://act-on.com/learn/blog/diversity-a-strategic-business-issue/",
+    "https://act-on.com/learn/blog/google-authorship-101/",
+    "https://act-on.com/learn/blog/how-to-win-social-friends-influencers/",
+    "https://act-on.com/learn/blog/2013-roundup-of-marketing-miscellany/",
+    "https://act-on.com/learn/blog/4-tips-for-maximizing-advocacy/",
+    "https://act-on.com/learn/blog/inside-sales-the-rise-of-the-machines/",
+    "https://act-on.com/learn/blog/3-ways-online-marketing-forms-drive-conversions/",
+    "https://act-on.com/learn/blog/the-gift-of-the-magi/",
+    "https://act-on.com/learn/blog/peace-on-earth-good-will-to-all-happy-holidays-from-act-on/",
+    "https://act-on.com/learn/blog/congratulations-oracle-responsys/",
+    "https://act-on.com/learn/blog/why-advocate-marketing-should-be-part-of-your-lead-generation-strategy-part-2-of-2/",
+    "https://act-on.com/learn/blog/why-advocate-marketing-should-be-part-of-your-lead-generation-strategy-part-i-of-2/",
+    "https://act-on.com/learn/blog/b2b-webinar-why-customer-retention-matters-more-than-acquisition/",
+    "https://act-on.com/learn/blog/lead-lizard-breaks-down-the-buyer-persona-for-more-effective-lead-nurturing/",
+    "https://act-on.com/learn/blog/5-ways-to-promote-your-webinar/",
+    "https://act-on.com/learn/blog/nurturing-relationships-in-a-long-sales-cycle/",
+    "https://act-on.com/learn/blog/instagram-for-marketing-examples-we-like/",
+    "https://act-on.com/learn/blog/best-ways-to-thank-galvanize-your-brand-advocates/",
+    "https://act-on.com/learn/blog/is-your-social-media-strategy-dynamic/",
+    "https://act-on.com/learn/blog/how-to-make-hummingbird-your-ally-with-long-tail-keywords/",
+    "https://act-on.com/learn/blog/social-media-halloween-connect-the-dots/",
+    "https://act-on.com/learn/blog/plan-the-perfect-webinar/",
+    "https://act-on.com/learn/blog/a-flock-of-hummingbird-seo-comments/",
+    "https://act-on.com/learn/blog/analyze-this-learn-marketing-analytics-in-a-week/",
+    "https://act-on.com/learn/blog/maximize-inbound-roi-clicks-content-and-conversion/",
+    "https://act-on.com/learn/blog/b2b-social-marketing-all-decision-makers-use-social-for-work/",
+    "https://act-on.com/learn/blog/why-is-the-marketers-secret-sauce-5-buyer-persona-insights/",
+    "https://act-on.com/learn/blog/new-california-do-not-track-law-affects-online-marketers/",
+    "https://act-on.com/learn/blog/what-to-do-with-mid-funnel-prospects/",
+    "https://act-on.com/learn/blog/learn-how-to-optimize-local-search-webinar/",
+    "https://act-on.com/learn/blog/5-seo-strategies-every-company-needs-to-master/",
+    "https://act-on.com/learn/blog/10-ways-to-become-a-marketing-superstar/",
+    "https://act-on.com/learn/blog/how-to-adapt-your-social-strategy-channel-by-channel/",
+    "https://act-on.com/learn/blog/9-steps-to-lower-customer-acquisition-cost-and-higher-value/",
+    "https://act-on.com/learn/blog/got-marketing-roi/",
+    "https://act-on.com/learn/blog/5-keys-to-email-inbox-delivery/",
+    "https://act-on.com/learn/blog/plan-your-next-webinar/",
+    "https://act-on.com/learn/blog/a-newbies-guide-to-link-building/",
+    "https://act-on.com/learn/blog/8-x-3-x-seo-24-tips-for-building-inbound-links-webinar-july-24/",
+    "https://act-on.com/learn/blog/best-practices-in-social-influencer-marketing/",
+    "https://act-on.com/learn/blog/cheetah-speed-agile-marketing/",
+    "https://act-on.com/learn/blog/3-social-dos-3-social-donts/",
+    "https://act-on.com/learn/blog/5-key-steps-to-selling-through-social-media/",
+    "https://act-on.com/learn/blog/using-long-tail-keywords-strategically/",
+    "https://act-on.com/learn/blog/the-first-law-of-social-media-marketing/",
+    "https://act-on.com/learn/blog/the-9-immutable-laws-of-social-marketing/",
+    "https://act-on.com/learn/blog/9-steps-to-revitalize-your-tradeshow-marketing-strategy/"
+]
+
+preSorted = {
+    'https://act-on.com/learn/blog/pipeline-generation-face-economic-headwinds-and-win/': 'New Customer Acquisition',
+    'https://act-on.com/learn/blog/5-ways-marketing-leaders-help-sales-expand-pipeline/': 'Build Pipeline and Accelerate Sales',
+    'https://act-on.com/learn/blog/how-to-reduce-customer-attrition-and-keep-your-best-customers/': 'Deliver Value and Keep customers',
+    'https://act-on.com/learn/blog/what-is-lead-scoring-for-marketing-and-what-are-the-benefits/': 'Convert unknown visitors to known leads',
+    'https://act-on.com/learn/blog/5-lead-nurture-campaigns-that-build-pipeline-and-support-roi/': 'Nurture prospects into opportunities',
+    'https://act-on.com/learn/blog/what-is-customer-marketing-2/': 'Grow advocates; build loyalty',
+    'https://act-on.com/learn/blog/lead-scoring-model-building-a-framework-to-drive-conversion/': 'Convert unknown visitors to known leads',
+    'https://act-on.com/learn/blog/lead-scoring-tools-and-tactics-to-convert-customers/': 'Convert unknown visitors to known leads',
+    'https://act-on.com/learn/blog/feeding-the-funnel-how-to-build-nurture-programs-that-drive-pipeline/': 'Nurture prospects into opportunities',
+    'https://act-on.com/learn/blog/use-trigger-campaigns-effectively-nurture-leads/': 'Nurture prospects into opportunities',
+    'https://act-on.com/learn/blog/increase-customer-retention-why-multichannel-marketing-is-an-underrated-tool/': 'Welcome and onboard new customers',
+    'https://act-on.com/learn/blog/proven-tactics-for-engaging-and-successful-welcome-emails/': 'Welcome and onboard new customers',
+    'https://act-on.com/learn/blog/how-to-use-automated-customer-segmentation-for-better-results/': 'Identify and target audience segments',
+    'https://act-on.com/learn/blog/demand-generation-101-7-tactics-for-generating-high-quality-leads/': 'Deliver the best leads to sales',
+    'https://act-on.com/learn/blog/5-steps-to-increase-conversion-rates-with-account-based-marketing/': 'Deliver the best leads to sales',
+    'https://act-on.com/learn/blog/the-new-rules-of-data-driven-marketing/': 'Be a data-driven marketing org',
+    'https://act-on.com/learn/blog/capture-and-use-first-party-data/': 'Be a data-driven marketing org',
+    'https://act-on.com/learn/blog/sales-and-marketing-alignment-why-it-matters/': 'Empower Sales with account intelligence',
+    'https://act-on.com/learn/blog/how-to-align-sales-and-marketing-on-strategy/': 'Empower Sales with account intelligence',
+    'https://act-on.com/learn/blog/integrate-sales-and-marketing-software-to-streamline-processes/': 'Empower Sales with account intelligence',
+    'https://act-on.com/learn/blog/retention-marketing-how-we-reached-400-customer-accounts/': 'Engage customers with regular communication',
+    'https://act-on.com/learn/blog/debunking-email-personalization-myths-part-1-of-2/': 'Personalize outreach and communication'
+};

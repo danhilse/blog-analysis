@@ -1,13 +1,13 @@
 import json
 import pandas as pd
 import os
-from typing import Dict, List, Optional
+from typing import Dict, Optional
 import openpyxl
 from article_processor import (
     clean_content, calculate_word_count, load_yoast_keywords,
     import_performance_data, count_personal_pronouns, format_seo_data, parse_date
 )
-from ai_analysis import (
+from depr.ai_analysis import (
     analyze_content_categorization, analyze_seo,
     analyze_tone_voice, analyze_quality_brand_fit, cost_tracker
 )

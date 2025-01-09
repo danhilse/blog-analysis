@@ -1,5 +1,3 @@
-import requests
-from bs4 import BeautifulSoup
 import json
 from typing import Dict, List
 import logging
@@ -8,6 +6,18 @@ from datetime import datetime
 from urllib.parse import urlparse
 import sys
 import ast
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+import requests
+from bs4 import BeautifulSoup
+import time
+import re
+from static import corporate_urls
 
 
 # Enhanced logging setup
@@ -16,7 +26,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
         logging.StreamHandler(sys.stdout),
-        logging.FileHandler('scraper.log')
+        # logging.FileHandler('scraper.log')
     ]
 )
 logger = logging.getLogger(__name__)
@@ -27,63 +37,45 @@ class BlogAnalyzer:
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
 
+
+
     def analyze_webpage(self, url: str) -> Dict:
         """Main method to analyze a webpage."""
         try:
             logger.info(f"Fetching URL: {url}")
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-                'Accept-Language': 'en-US,en;q=0.5',
-                # Let requests handle compression automatically
-                'Accept-Encoding': 'gzip, deflate',
-                'Connection': 'keep-alive',
-                'Upgrade-Insecure-Requests': '1',
-                'Cache-Control': 'max-age=0'
-            }
 
-            # Make request with automatic content decoding
-            response = requests.get(url, headers=headers, timeout=10)
-            response.raise_for_status()
+            # Determine if we need advanced scraping based on URL
+            if 'connect.act-on.com' in url:
+                html_content = self._fetch_with_selenium(url)
+            else:
+                # Use regular requests for the main blog
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+                    'Accept-Language': 'en-US,en;q=0.5',
+                    'Accept-Encoding': 'gzip, deflate',
+                    'Connection': 'keep-alive',
+                    'Upgrade-Insecure-Requests': '1',
+                    'Cache-Control': 'max-age=0'
+                }
+                response = requests.get(url, headers=headers, timeout=10)
+                response.raise_for_status()
+                html_content = response.text
 
-            # Debug response
-            logger.info(f"Response status code: {response.status_code}")
-            logger.info(f"Response headers: {dict(response.headers)}")
-            logger.info(f"Response encoding: {response.encoding}")
-
-            # Get decoded text content
-            html_content = response.text
-
-            # Debug the raw HTML
-            logger.info("First 1000 characters of decoded HTML:")
-            logger.info(html_content[:1000])
-
-            # Create soup with lxml parser
+            # Create soup object
             soup = BeautifulSoup(html_content, 'lxml')
 
-            # Debug soup structure
-            logger.info(f"Found <head> tag: {soup.find('head') is not None}")
-            head = soup.find('head')
-            if head:
-                logger.info("Head contents:")
-                logger.info(head.prettify()[:1000])
+            content = self.get_content(soup)
 
-                # Debug script tags
-                scripts = head.find_all('script')
-                logger.info(f"Found {len(scripts)} script tags in head")
-                for i, script in enumerate(scripts):
-                    logger.info(f"Script {i} type: {script.get('type')}")
-                    logger.info(f"Script {i} class: {script.get('class')}")
-                    if script.get('type') == 'application/ld+json':
-                        logger.info(f"JSON-LD content: {script.string[:200]}")
-
+            # Create analysis dictionary
             analysis = {
                 'url': url,
                 'analysis_timestamp': datetime.now().isoformat(),
                 'basic_info': self.get_basic_info(soup),
                 'seo_analysis': self.get_seo_analysis(soup),
                 'multimedia_assessment': self.get_multimedia_assessment(soup),
-                'content': self.get_content(soup),
+                'content': content,
+                'red_flags': self.check_red_flags(content),  # Add red flags analysis
                 'related_content': self.get_related_content(soup),
                 'videos': self.get_videos(soup)
             }
@@ -99,6 +91,64 @@ class BlogAnalyzer:
                 'status': 'failed'
             }
 
+    def _fetch_with_selenium(self, url: str) -> str:
+        """Fetch content using Selenium for pages that require JavaScript."""
+        chrome_options = Options()
+        chrome_options.add_argument('--headless')  # Run in headless mode
+        chrome_options.add_argument('--disable-gpu')
+        chrome_options.add_argument('--no-sandbox')
+        chrome_options.add_argument('--disable-dev-shm-usage')
+
+        # Add additional headers to avoid detection
+        chrome_options.add_argument(
+            '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36')
+
+        # Initialize webdriver with ChromeDriverManager
+        service = Service(ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+
+        try:
+            driver.get(url)
+
+            # Wait for article content to be present
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CLASS_NAME, 'article-content'))
+            )
+
+            # Additional wait for dynamic content
+            time.sleep(2)
+
+            return driver.page_source
+        finally:
+            driver.quit()
+
+    def check_red_flags(self, content: str) -> Dict:
+        """Check content for specific red flag phrases using regex."""
+        red_flags = {
+            'matches': [],
+            'count': 0
+        }
+
+        patterns = [
+            r'rethink\s+marketing\s+podcast',
+            r'(?:in\s+the\s+comments|tell\s+us\s+in\s+the\s+comments)',
+            r'adaptive',
+            r'growth\s+marketing\s+platform'
+        ]
+
+        for pattern in patterns:
+            # Compile pattern with IGNORECASE and MULTILINE flags
+            regex = re.compile(pattern, re.IGNORECASE | re.MULTILINE)
+            for match in regex.finditer(content):
+                red_flags['matches'].append({
+                    'pattern': pattern,
+                    'matched_text': match.group(),
+                    'position': match.start()
+                })
+
+        red_flags['count'] = len(red_flags['matches'])
+        return red_flags
+
     def get_basic_info(self, soup: BeautifulSoup) -> Dict:
         """Extract basic information about the blog post."""
         basic_info = {
@@ -106,7 +156,8 @@ class BlogAnalyzer:
             'publication_date': '',
             'modified_date': '',
             'url': '',
-            'description': ''
+            'description': '',
+            'category': None  # Added category field
         }
 
         # First try to get metadata from Yoast SEO schema
@@ -125,6 +176,20 @@ class BlogAnalyzer:
                         break
             except json.JSONDecodeError as e:
                 logger.error(f"Error parsing JSON-LD schema: {e}")
+
+        # Extract category from the breadcrumbs widget
+        breadcrumbs = soup.find('div', class_='breadcrumbs')
+        if breadcrumbs:
+            # Find all list items in the breadcrumbs
+            list_items = breadcrumbs.find_all('li', class_='elementor-icon-list-item')
+            for item in list_items:
+                # Look for an anchor tag with 'category' in the href
+                category_link = item.find('a', href=lambda x: x and '/category/' in x)
+                if category_link:
+                    category_text = category_link.get_text(strip=True)
+                    if category_text:
+                        basic_info['category'] = category_text
+                        break
 
         # Fallback to meta tags if needed
         if not basic_info['publication_date']:
@@ -154,7 +219,6 @@ class BlogAnalyzer:
                 basic_info['description'] = meta_desc.get('content', '')
 
         return basic_info
-
     def get_seo_analysis(self, soup: BeautifulSoup) -> Dict:
         """Analyze SEO elements of the page."""
         seo_analysis = {
@@ -270,17 +334,25 @@ class BlogAnalyzer:
                     text_parts.append(item.get_text().strip())
             return ' '.join(filter(None, text_parts))
 
-        # Extract main content
-        main_content = soup.find('div', class_='elementor-widget-theme-post-content')
-        if main_content:
-            for element in main_content.find_all(['h2', 'h3', 'h4', 'p', 'ul', 'ol', 'img', 'figure', 'div']):
-                if element.name in ['h2', 'h3', 'h4']:
+        def process_content_block(content_block):
+            """Process a content block and extract text content."""
+            if not content_block:
+                return
+
+            for element in content_block.find_all(['h1', 'h2', 'h3', 'h4', 'p', 'ul', 'ol', 'img', 'figure', 'div']):
+                if element.name in ['h1', 'h2', 'h3', 'h4']:
                     content.append(f"\n{element.name.upper()}: {get_spaced_text(element)}")
                 elif element.name == 'p':
-                    content.append(get_spaced_text(element))
+                    text = get_spaced_text(element)
+                    if text:  # Only add non-empty paragraphs
+                        content.append(text)
                 elif element.name in ['ul', 'ol']:
-                    for li in element.find_all('li'):
-                        content.append(f"- {get_spaced_text(li)}")
+                    for index, li in enumerate(element.find_all('li', recursive=False)):
+                        if element.name == 'ol':
+                            # For ordered lists, use the actual number
+                            content.append(f"{index + 1}. {get_spaced_text(li)}")
+                        else:
+                            content.append(f"- {get_spaced_text(li)}")
                 elif element.name == 'img' and not self.is_logo_image(element):
                     alt_text = element.get('alt', 'No alt text provided')
                     src = element.get('src', '')
@@ -291,13 +363,52 @@ class BlogAnalyzer:
                         img = element.find('img')
                         if img and not self.is_logo_image(img):
                             alt_text = img.get('alt', 'No alt text provided')
-                            src = img.get('src', '')
+                            src = element.get('src', '')
                             if src and alt_text:
                                 content.append(f"\n[CONTENT IMAGE: {alt_text}]\nSource: {src}\n")
 
-            return '\n\n'.join(content)
-        return ""
+        # Try different content container selectors in order of preference
+        content_containers = [
+            # Main blog content (Elementor)
+            soup.find('div', class_='elementor-widget-theme-post-content'),
+            # Help center article content
+            soup.find('section', class_='content article-content'),
+            # Help center article body
+            soup.find('div', class_='article-body'),
+            # Help center main content
+            soup.find('main', class_='content'),
+            # Generic article content
+            soup.find('article'),
+            # Last resort: main tag
+            soup.find('main')
+        ]
 
+        # Log what we found
+        logger.info("Content containers found:")
+        for i, container in enumerate(content_containers):
+            if container:
+                logger.info(f"Container {i}: {container.name} with class {container.get('class', [])}")
+
+        # Try each container until we find content
+        for container in content_containers:
+            if container:
+                process_content_block(container)
+                if content:  # If we found content, stop looking
+                    break
+
+        # If still no content, try to get any text from body
+        if not content:
+            logger.warning("No content found in standard containers, attempting to extract from body")
+            body = soup.find('body')
+            if body:
+                # Get text while excluding script and style elements
+                for script in body(['script', 'style']):
+                    script.decompose()
+                text = body.get_text()
+                if text.strip():
+                    content.append(text.strip())
+
+        return '\n\n'.join(content)
     def get_videos(self, soup: BeautifulSoup) -> List[Dict]:
         """Extract video content from the page."""
         videos = []
@@ -415,21 +526,30 @@ def main():
         # "https://act-on.com/learn/blog/what-is-customer-marketing-2/"
     ]
 
-    urls = ["https://act-on.com/learn/blog/manufacturing-industry-slow-to-adopt-emerging-digital-marketing-software/",
-            "https://act-on.com/learn/blog/which-marketing-software-applications-matter-to-b2b-marketers/",
-            "https://act-on.com/learn/blog/the-secret-marketing-strategy-thinking/",
-            "https://act-on.com/learn/blog/critical-rules-for-seo-success-in-2015/",
-            "https://act-on.com/learn/blog/spam-filter-basics-how-to-keep-your-emails-from-getting-blocked/",
-            "https://act-on.com/learn/blog/tradeshows-and-events-drive-highest-quality-leads/",
-            "https://act-on.com/learn/blog/hiring-a-marketer-what-skill-set-should-you-look-for/",
-            "https://act-on.com/learn/blog/title-tags-headings-and-you-get-tips-for-seo-success/",
-            "https://act-on.com/learn/blog/best-practices-in-email-deliverability-uncommon-tiers-of-engagement/",
-            "https://act-on.com/learn/blog/an-act-on-conversation-blurred-lines-what-sales-marketing-will-look-like-in-2015/",
-            "https://act-on.com/learn/blog/global-software-provider-mikogo-uses-marketing-automation-to-drive-results/",
-            "https://act-on.com/learn/blog/video-marketing-works-for-b2b-too-insights-from-the-software-benchmark-report/",
-            "https://act-on.com/learn/blog/whats-the-word-new-additions-to-the-digital-marketing-glossary/",
-            "https://act-on.com/learn/blog/whats-your-type-personality-tests-in-the-workplace/",
-            "https://act-on.com/learn/blog/battle-the-bloat-and-give-your-content-marketing-a-lean-new-physique/"]
+    urls = [
+        'https://act-on.com/learn/blog/pipeline-generation-face-economic-headwinds-and-win/',
+        'https://act-on.com/learn/blog/5-ways-marketing-leaders-help-sales-expand-pipeline/',
+        'https://act-on.com/learn/blog/how-to-reduce-customer-attrition-and-keep-your-best-customers/',
+        'https://act-on.com/learn/blog/what-is-lead-scoring-for-marketing-and-what-are-the-benefits/',
+        'https://act-on.com/learn/blog/5-lead-nurture-campaigns-that-build-pipeline-and-support-roi/',
+        'https://act-on.com/learn/blog/what-is-customer-marketing-2/',
+        'https://act-on.com/learn/blog/lead-scoring-model-building-a-framework-to-drive-conversion/',
+        'https://act-on.com/learn/blog/lead-scoring-tools-and-tactics-to-convert-customers/',
+        'https://act-on.com/learn/blog/feeding-the-funnel-how-to-build-nurture-programs-that-drive-pipeline/',
+        'https://act-on.com/learn/blog/use-trigger-campaigns-effectively-nurture-leads/',
+        'https://act-on.com/learn/blog/increase-customer-retention-why-multichannel-marketing-is-an-underrated-tool/',
+        'https://act-on.com/learn/blog/proven-tactics-for-engaging-and-successful-welcome-emails/',
+        'https://act-on.com/learn/blog/how-to-use-automated-customer-segmentation-for-better-results/',
+        'https://act-on.com/learn/blog/demand-generation-101-7-tactics-for-generating-high-quality-leads/',
+        'https://act-on.com/learn/blog/5-steps-to-increase-conversion-rates-with-account-based-marketing/',
+        'https://act-on.com/learn/blog/the-new-rules-of-data-driven-marketing/',
+        'https://act-on.com/learn/blog/capture-and-use-first-party-data/',
+        'https://act-on.com/learn/blog/sales-and-marketing-alignment-why-it-matters/',
+        'https://act-on.com/learn/blog/how-to-align-sales-and-marketing-on-strategy/',
+        'https://act-on.com/learn/blog/integrate-sales-and-marketing-software-to-streamline-processes/',
+        'https://act-on.com/learn/blog/retention-marketing-how-we-reached-400-customer-accounts/',
+        'https://act-on.com/learn/blog/debunking-email-personalization-myths-part-1-of-2/'
+    ]
 
     # urls = get_all_blogs()
 
