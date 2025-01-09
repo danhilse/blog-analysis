@@ -31,7 +31,9 @@ def process_json_to_excel():
             'Use Case Type 2': value.get('use_case_type_2', ''),
             'Use Case Reasoning Type 2': value.get('use_case_reasoning_type_2', ''),
             'CMO Priority Type 2': value.get('cmoPriority_type_2', ''),
-            'Get/Keep/Grow Type 2': value.get('getKeepGrow_type_2', '')
+            'Get/Keep/Grow Type 2': value.get('getKeepGrow_type_2', ''),
+            'use_case_multi_primary': value.get('use_case_multi_primary', ''),
+            "use_case_multi_addl": value.get('use_case_multi_addl', '')
         }
 
         processed_records.append(record)

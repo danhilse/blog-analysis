@@ -715,9 +715,9 @@ corporate_urls = [
 ]
 
 preSorted = {
-    'https://act-on.com/learn/blog/pipeline-generation-face-economic-headwinds-and-win/': 'New Customer Acquisition',
-    'https://act-on.com/learn/blog/5-ways-marketing-leaders-help-sales-expand-pipeline/': 'Build Pipeline and Accelerate Sales',
-    'https://act-on.com/learn/blog/how-to-reduce-customer-attrition-and-keep-your-best-customers/': 'Deliver Value and Keep customers',
+    'https://act-on.com/learn/blog/pipeline-generation-face-economic-headwinds-and-win/': 'New Customer Acquisition (CMO Priority)',
+    'https://act-on.com/learn/blog/5-ways-marketing-leaders-help-sales-expand-pipeline/': 'Build Pipeline and Accelerate Sales (CMO Priority)',
+    'https://act-on.com/learn/blog/how-to-reduce-customer-attrition-and-keep-your-best-customers/': 'Deliver Value and Keep customers (CMO Priority)',
     'https://act-on.com/learn/blog/what-is-lead-scoring-for-marketing-and-what-are-the-benefits/': 'Convert unknown visitors to known leads',
     'https://act-on.com/learn/blog/5-lead-nurture-campaigns-that-build-pipeline-and-support-roi/': 'Nurture prospects into opportunities',
     'https://act-on.com/learn/blog/what-is-customer-marketing-2/': 'Grow advocates; build loyalty',

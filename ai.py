@@ -80,19 +80,11 @@ class BlogAnalyzer:
                 {
                     "type": "text",
                     "text": "You are a brand alignment specialist analyzing content against brand guidelines.",
-                    "cache_control": {"type": "ephemeral"}
                 },
                 {
                     "type": "text",
                     "text": self.brand_guidelines,
                     "cache_control": {"type": "ephemeral"}
-                }
-            ],
-            "summarize": [
-                {
-                    "type": "text",
-                    "text": """Create a concise summary of the content in 2-3 sentences, 
-                    focusing on the main topic and key takeaways."""
                 }
             ],
             "use_case": [
@@ -102,7 +94,20 @@ class BlogAnalyzer:
                 },
                 {
                     "type": "text",
-                    "text": f"Here are the possible use cases and their descriptions:\n\n{self._format_use_cases()}",
+                    "text": f'''When categorizing content, follow this prioritization framework:
+1. Primary Business Outcome: What is the ultimate goal the content aims to achieve?
+2. Target Audience Stage: Is this aimed at prospects, existing customers, or partners?
+3. Strategic Intent: Look for the higher-level business objective before tactical implementation
+4. Implementation Methods: Consider tactical elements (like nurture campaigns or webinars) as supporting evidence, not primary categorization factors
+
+Key Distinctions:
+- Content about tactical methods (email nurture, webinars, etc.) should be categorized by the strategic goal it serves
+- When content mentions multiple use cases, prioritize the main business outcome
+- Customer lifecycle stage should guide categorization (e.g., new customer content vs. existing customer growth)
+
+                    Here are the possible use cases and their descriptions:
+
+{self._format_use_cases()}''',
                     "cache_control": {"type": "ephemeral"}
                 },
                 {
@@ -133,6 +138,51 @@ class BlogAnalyzer:
                 "reasoning": "Two sentence justification without any line breaks or special characters"
             }"""
                 }
+            ],
+            "use_case_multi": [
+                {
+                    "type": "text",
+                    "text": """You are a content strategy specialist analyzing content for all relevant marketing use cases. Identify all use cases that significantly align with the content's purpose, outcomes, and tactical implementation."""
+                },
+                {
+                    "type": "text",
+                    "text": f"""Here are the possible use cases and their descriptions:\n\n{self._format_use_cases()}
+
+        When analyzing content:
+        1. Consider both strategic goals and tactical implementations
+        2. Look for multiple layers of intent and audience
+        3. Assess confidence based on:
+           - Direct mention and focus on the use case
+           - Alignment with use case objectives
+           - Depth of coverage for the use case
+           - Target audience match""",
+                    "cache_control": {"type": "ephemeral"}
+                },
+                    {
+                    "type": "text",
+                    "text": """Output ONLY valid JSON format with exactly these keys and no others:
+        {
+                    "primary_use_case": {
+                    "name": "exact use case name that best fits",
+                "confidence": float between 0-1,
+                "reasoning": "One sentence explanation"
+            },
+            "additional_use_cases": [
+                {
+                    "name": "exact use case name",
+                    "confidence": float between 0-1,
+                    "reasoning": "One sentence explanation",
+                    "relationship": "Brief explanation of how this use case relates to or supports the primary use case"
+                }
+            ],
+            "analysis_confidence": float between 0-1
+        }
+
+        Note:
+        - Only include use cases with confidence > 0.5
+        - Order additional use cases by confidence (highest first)
+        - Explain relationships between use cases to show content flow and dependencies"""
+                }
             ]
         }
         return prompts.get(prompt_type, [])
@@ -162,7 +212,7 @@ class BlogAnalyzer:
                 model="claude-3-5-sonnet-20241022",
                 max_tokens=1024,
                 system=system_prompt,
-                temperature=0.1,
+                temperature=0.25,
                 messages=[
                     {
                         "role": "user",
@@ -226,7 +276,9 @@ class AnalysisManager:
             "brand_alignment": await self.analyzer.analyze_content_with_retry(content, "brand_alignment"),
             "summary": await self.analyzer.analyze_content_with_retry(content, "summarize"),
             "use_case": await self.analyzer.analyze_content_with_retry(content, "use_case"),
-            "use_case_type_2": await self.analyzer.analyze_content_with_retry(content, "use_case_type_2")
+            "use_case_type_2": await self.analyzer.analyze_content_with_retry(content, "use_case_type_2"),
+            "use_case_multi": await self.analyzer.analyze_content_with_retry(content, "use_case_multi")
+
         }
         return analyses
 

@@ -148,21 +148,41 @@ async def analyze_article(article, analysis_manager):
         article_analysis['use_case_type_2'] = use_case_2
         article_analysis['use_case_reasoning_type_2'] = use_case_data['reasoning']
 
-        # Look up getKeepGrow and cmoPriority for second use case
-        if use_case_2 in useCaseCats['useCases']:
-            use_case_info = useCaseCats['useCases'][use_case_2]
-            article_analysis['getKeepGrow_type_2'] = use_case_info.get('getKeepGrow')
-            article_analysis['cmoPriority_type_2'] = use_case_info.get('cmoPriority')
-        else:
-            article_analysis['getKeepGrow_type_2'] = 'unknown'
-            article_analysis['cmoPriority_type_2'] = 'unknown'
+        # # Look up getKeepGrow and cmoPriority for second use case
+        # if use_case_2 in useCaseCats['useCases']:
+        #     use_case_info = useCaseCats['useCases'][use_case_2]
+        #     article_analysis['getKeepGrow_type_2'] = use_case_info.get('getKeepGrow')
+        #     article_analysis['cmoPriority_type_2'] = use_case_info.get('cmoPriority')
+        # else:
+        #     article_analysis['getKeepGrow_type_2'] = 'unknown'
+        #     article_analysis['cmoPriority_type_2'] = 'unknown'
     else:
         article_analysis['use_case_type_2'] = 'unclassified'
         article_analysis['use_case_reasoning_type_2'] = None
-        article_analysis['getKeepGrow_type_2'] = 'unknown'
-        article_analysis['cmoPriority_type_2'] = 'unknown'
         article_analysis['error_2'] = analysis_result.result
-        article_analysis['error_message_2'] = analysis_result.error
+
+    # Analyze for second use case type
+    analysis_result = await analysis_manager.analyzer.analyze_content(
+        cleaned_content,
+        "use_case_multi"
+    )
+
+    if analysis_result.success:
+        use_case_data = json.loads(analysis_result.result)
+        article_analysis['use_case_multi_primary'] = use_case_data['primary_use_case']
+        article_analysis['use_case_multi_addl'] = use_case_data['additional_use_cases']
+
+        # # Look up getKeepGrow and cmoPriority for second use case
+        # if use_case_2 in useCaseCats['useCases']:
+        #     use_case_info = useCaseCats['useCases'][use_case_2]
+        #     article_analysis['getKeepGrow_type_2'] = use_case_info.get('getKeepGrow')
+        #     article_analysis['cmoPriority_type_2'] = use_case_info.get('cmoPriority')
+        # else:
+        #     article_analysis['getKeepGrow_type_2'] = 'unknown'
+        #     article_analysis['cmoPriority_type_2'] = 'unknown'
+    else:
+        article_analysis['use_case_multi'] = 'failed'
+        article_analysis['error_multi'] = analysis_result.result
 
     return article_analysis
 
