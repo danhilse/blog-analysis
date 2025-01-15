@@ -1,0 +1,1160 @@
+{
+  "actoncomlearnblog5waysmarketingleadershelpsalesexpandpipeline": {
+    "url": "https://act-on.com/learn/blog/5-ways-marketing-leaders-help-sales-expand-pipeline/",
+    "title": "5 Ways Marketing Leaders Help Sales Expand Pipeline",
+    "category": "Marketing Strategy",
+    "publication_date": "2024-03-01T17:29:29+00:00",
+    "modified_date": "2024-04-23T16:01:50+00:00",
+    "processed_timestamp": "2025-01-09T08:29:05.842674",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Build Pipeline and Accelerate Sales (CMO Priority)",
+    "ai_category": "Demand and Lead Generation",
+    "ai_category_reasoning": "The content primarily focuses on strategies for building and expanding sales pipeline through effective lead generation and nurturing practices. The article extensively discusses how marketing can help generate quality leads, convert them to opportunities, and align with sales teams to drive revenue growth, making it fundamentally about demand and lead generation processes.",
+    "ai_category_status": "success",
+    "use_case": "Nurture prospects into opportunities",
+    "use_case_reasoning": "The content primarily focuses on strategies for converting leads into pipeline opportunities through nurturing activities, including how marketing can support sales in prospect development and lead qualification. The article extensively covers lead nurturing best practices, scoring systems, and how to effectively move prospects through the funnel with quality engagement.",
+    "use_case_alt": "Deliver the best leads to sales",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Nurture prospects into opportunities",
+    "use_case_reasoning_type_2": "The content primarily focuses on strategies for converting leads into pipeline opportunities through nurturing activities, including how marketing can help sales nurture prospects and build quality pipeline. The article specifically discusses lead scoring, follow-up strategies, and how to effectively move prospects through the funnel with personalized content and engagement tactics.",
+    "use_case_multi_primary": {
+      "name": "Nurture prospects into opportunities",
+      "confidence": 0.9,
+      "reasoning": "The content extensively covers strategies for converting leads into pipeline opportunities, with detailed discussion of nurturing tactics and sales-marketing alignment."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Deliver the best leads to sales",
+        "confidence": 0.85,
+        "reasoning": "Significant focus on quality lead delivery to sales teams and improving lead scoring systems",
+        "relationship": "Quality lead delivery is presented as the outcome of effective nurturing strategies"
+      },
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.8,
+        "reasoning": "Discusses automation and scalability of marketing campaigns and nurture sequences",
+        "relationship": "Scaling operations enables more effective prospect nurturing and lead delivery"
+      },
+      {
+        "name": "Be a data-driven marketing org",
+        "confidence": 0.75,
+        "reasoning": "Emphasizes the importance of metrics, data analysis, and account intelligence in pipeline building",
+        "relationship": "Data-driven decision making supports better nurturing and lead qualification processes"
+      },
+      {
+        "name": "Improve marketing performance",
+        "confidence": 0.7,
+        "reasoning": "Addresses metrics alignment between CEO and CMO, focusing on revenue growth and pipeline expansion",
+        "relationship": "Performance improvement metrics are tied to successful prospect nurturing outcomes"
+      }
+    ]
+  },
+  "actoncomlearnblogdebunkingemailpersonalizationmythspart1of2": {
+    "url": "https://act-on.com/learn/blog/debunking-email-personalization-myths-part-1-of-2/",
+    "title": "Debunking Email Personalization Myths: Part 1 of 2",
+    "category": "Email Marketing",
+    "publication_date": "2024-07-08T23:01:02+00:00",
+    "modified_date": "2024-07-09T16:25:00+00:00",
+    "processed_timestamp": "2025-01-09T08:29:49.125686",
+    "red_flags": {
+      "matches": [
+        {
+          "pattern": "adaptive",
+          "matched_text": "adaptive",
+          "position": 7367
+        }
+      ]
+    },
+    "pre sorted use case": "Personalize outreach and communication",
+    "ai_category": "Email Marketing",
+    "ai_category_reasoning": "This content primarily focuses on email marketing strategy, specifically debunking myths around email personalization techniques and best practices. While it touches on personalization technology, its main purpose is to educate marketers about effective email marketing strategies and dispel common misconceptions about personalizing email campaigns.",
+    "ai_category_status": "success",
+    "use_case": "Personalize outreach and communication",
+    "use_case_reasoning": "The content extensively discusses email personalization strategies, myths, and best practices for creating personalized customer communications. The article focuses specifically on how to implement personalization effectively in email marketing, from basic first-name personalization to advanced segmentation and dynamic content.",
+    "use_case_alt": "Identify and target audience segments",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Personalize outreach and communication",
+    "use_case_reasoning_type_2": "The content is entirely focused on email personalization strategies, debunking common myths about personalizing marketing communications and providing specific tactics for implementing personalization effectively. The article specifically addresses how to personalize email content beyond basic first-name usage, including segmentation strategies, dynamic content, and various personalization elements like images and timing.",
+    "use_case_multi_primary": {
+      "name": "Personalize outreach and communication",
+      "confidence": 0.95,
+      "reasoning": "The content directly addresses email personalization strategies, myths, and implementation, making it fundamentally about how to personalize marketing communications."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Identify and target audience segments",
+        "confidence": 0.85,
+        "reasoning": "Content discusses segmentation strategies and creating differentiated messages for different job titles and industries",
+        "relationship": "Effective personalization requires proper audience segmentation as a foundation"
+      },
+      {
+        "name": "Nurture prospects into opportunities",
+        "confidence": 0.75,
+        "reasoning": "The content covers nurture sequences and how personalization impacts engagement metrics through the buyer journey",
+        "relationship": "Personalization is presented as a key tool for effective nurture campaigns"
+      },
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.7,
+        "reasoning": "Discusses how to implement personalization efficiently using marketing automation platforms and tools",
+        "relationship": "Shows how to scale personalization efforts through automation and strategic implementation"
+      },
+      {
+        "name": "Improve marketing performance",
+        "confidence": 0.65,
+        "reasoning": "Includes specific metrics and improvements from personalization efforts, such as increasing clickthrough rates from 1.32% to 17.93%",
+        "relationship": "Demonstrates how personalization directly impacts marketing performance metrics"
+      }
+    ]
+  },
+  "actoncomlearnblogincreasecustomerretentionwhymultichannelmarketingisanunderratedtool": {
+    "url": "https://act-on.com/learn/blog/increase-customer-retention-why-multichannel-marketing-is-an-underrated-tool/",
+    "title": "Increase Customer Retention: Why Multichannel Marketing Is an Underrated Tool",
+    "category": "Customer Marketing",
+    "publication_date": "2024-06-13T20:34:58+00:00",
+    "modified_date": "2024-06-13T20:34:59+00:00",
+    "processed_timestamp": "2025-01-09T08:31:52.202603",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Welcome and onboard new customers",
+    "ai_category": "Customer Marketing",
+    "ai_category_reasoning": "This content primarily focuses on strategies and tactics for retaining existing customers, including specific approaches like email nurturing, social media engagement, and customer training programs. The article's core purpose is to help marketers improve customer retention and engagement after the initial sale, which directly aligns with customer marketing's focus on retention and advocacy programs.",
+    "ai_category_status": "success",
+    "use_case": "Drive product adoption & usage",
+    "use_case_reasoning": "The content primarily focuses on strategies to keep existing customers engaged with the product and prevent churn through various marketing channels like email nurturing, social media, and training. While it mentions cross-sell and upsell opportunities, the main emphasis is on helping customers succeed with the product and increasing retention through better product adoption and engagement.",
+    "use_case_alt": "Cross-sell and upsell",
+    "analysis_status": "success",
+    "getKeepGrow": "2-KEEP",
+    "cmoPriority": "Deliver value and retain customers",
+    "use_case_type_2": "Drive product adoption & usage",
+    "use_case_reasoning_type_2": "The content focuses heavily on customer retention strategies and helping existing customers get more value from products through multichannel marketing, training, and engagement tactics. The emphasis is specifically on keeping customers engaged with the product and preventing churn through various marketing touchpoints like email nurtures, social media, and training webinars.",
+    "use_case_multi_primary": {
+      "name": "Drive product adoption & usage",
+      "confidence": 0.9,
+      "reasoning": "The content primarily focuses on strategies to keep existing customers engaged with the product and prevent churn through multichannel marketing approaches."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Cross-sell and upsell",
+        "confidence": 0.8,
+        "reasoning": "Multiple mentions of cross-sell and upsell opportunities as key outcomes of customer engagement strategies",
+        "relationship": "Successful product adoption creates natural opportunities for cross-selling and upselling to engaged customers"
+      },
+      {
+        "name": "Engage customers with regular communication",
+        "confidence": 0.85,
+        "reasoning": "Details specific multichannel communication strategies including email nurturing, social media, and webinars",
+        "relationship": "Regular communication across channels is presented as the primary tactical approach to driving product adoption"
+      },
+      {
+        "name": "Welcome and onboard new customers",
+        "confidence": 0.7,
+        "reasoning": "Discusses welcome email sequences and initial customer engagement strategies",
+        "relationship": "Proper onboarding is positioned as the foundation for long-term product adoption and engagement"
+      },
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.6,
+        "reasoning": "Mentions using marketing automation to scale customer retention efforts",
+        "relationship": "Automation and scalable processes support the implementation of product adoption strategies"
+      }
+    ]
+  },
+  "actoncomlearnblogretentionmarketinghowwereached400customeraccounts": {
+    "url": "https://act-on.com/learn/blog/retention-marketing-how-we-reached-400-customer-accounts/",
+    "title": "Retention Marketing: How We Reached 400 Customer Accounts with a Refreshed Program",
+    "category": "Customer Marketing",
+    "publication_date": "2024-05-07T21:17:49+00:00",
+    "modified_date": "2024-05-07T21:17:51+00:00",
+    "processed_timestamp": "2025-01-09T08:34:06.616871",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Engage customers with regular communication",
+    "ai_category": "Customer Marketing",
+    "ai_category_reasoning": "This content primarily focuses on customer retention strategies and programs, specifically detailing a customer success program called Power-Up Series designed to engage and retain existing customers. The article discusses specific tactics for keeping customers engaged through webinars, workshops, and office hours, with clear metrics on retention improvement and customer engagement, making it squarely focused on post-sale customer relationship management and retention.",
+    "ai_category_status": "success",
+    "use_case": "Drive product adoption & usage",
+    "use_case_reasoning": "The content focuses heavily on a customer success program (Power-Up Series) designed to help existing customers better utilize and understand the product through webinars, workshops, and office hours. The metrics shared (increased attendance rates and improved retention) directly tie to product adoption outcomes, and the entire strategy revolves around helping customers get more value from their existing products.",
+    "use_case_alt": "Engage customers with regular communication",
+    "analysis_status": "success",
+    "getKeepGrow": "2-KEEP",
+    "cmoPriority": "Deliver value and retain customers",
+    "use_case_type_2": "Drive product adoption & usage",
+    "use_case_reasoning_type_2": "The content focuses heavily on a customer success program (Power-Up Series) designed to help existing customers better understand and utilize their product through webinars, workshops, and office hours. The emphasis on customer education, retention, and helping customers get more value from existing products aligns directly with driving product adoption and usage goals.",
+    "use_case_multi_primary": {
+      "name": "Engage customers with regular communication",
+      "confidence": 0.9,
+      "reasoning": "The content extensively details a successful customer engagement program (Power-Up Series) with specific communication strategies, formats, and metrics."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Drive product adoption & usage",
+        "confidence": 0.85,
+        "reasoning": "The program focuses on helping customers better utilize the product through workshops and office hours",
+        "relationship": "Regular engagement through educational content directly supports product adoption by teaching customers how to better use the platform"
+      },
+      {
+        "name": "Grow advocates; build loyalty",
+        "confidence": 0.8,
+        "reasoning": "Content emphasizes customer satisfaction, retention improvements, and value exchange to build long-term loyalty",
+        "relationship": "The engagement program builds loyalty through consistent value delivery and personalized support"
+      },
+      {
+        "name": "Improve marketing performance",
+        "confidence": 0.7,
+        "reasoning": "Content includes specific metrics and improvements in attendance, retention rates, and engagement",
+        "relationship": "The engagement strategy's success is measured through concrete performance metrics that demonstrate program effectiveness"
+      },
+      {
+        "name": "Be a data-driven marketing org",
+        "confidence": 0.6,
+        "reasoning": "Details use of traffic data, survey responses, and historical patterns to make strategic decisions",
+        "relationship": "Data-driven insights inform and optimize the customer engagement strategy"
+      }
+    ]
+  },
+  "actoncomlearnblogwhatiscustomermarketing2": {
+    "url": "https://act-on.com/learn/blog/what-is-customer-marketing-2/",
+    "title": "What Is Customer Marketing?",
+    "category": "Customer Marketing",
+    "publication_date": "2024-05-29T23:20:44+00:00",
+    "modified_date": "2024-05-29T23:22:39+00:00",
+    "processed_timestamp": "2025-01-09T08:35:38.366483",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Grow advocates; build loyalty",
+    "ai_category": "Customer Marketing",
+    "ai_category_reasoning": "This content primarily focuses on strategies and importance of marketing to existing customers post-sale, including retention, upselling, and relationship building techniques. The article specifically details customer marketing concepts like personalized onboarding, customer journey mapping, and measuring customer lifetime value, making it clearly aligned with the Customer Marketing category rather than broader marketing topics.",
+    "ai_category_status": "success",
+    "use_case": "Cross-sell and upsell",
+    "use_case_reasoning": "The content primarily focuses on strategies to sell more to existing customers, emphasizing the higher success rate (60-70%) of selling to existing customers versus new ones (5-20%). While it covers multiple aspects of customer marketing, the core message revolves around growing customer lifetime value through cross-selling and upselling opportunities.",
+    "use_case_alt": "Welcome and onboard new customers",
+    "analysis_status": "success",
+    "getKeepGrow": "3-GROW",
+    "cmoPriority": "Maximize Customer Revenue (ARPU)",
+    "use_case_type_2": "Cross-sell and upsell",
+    "use_case_reasoning_type_2": "The content primarily focuses on marketing strategies to sell more to existing customers, specifically highlighting the higher success rate of selling to existing customers (60-70%) versus new ones (5-20%). While the content touches on customer retention and relationship building, the main emphasis is on growing revenue through cross-selling and upselling to current customers, with specific sections dedicated to expanding customer relationships through additional product offerings.",
+    "use_case_multi_primary": {
+      "name": "Cross-sell and upsell",
+      "confidence": 0.9,
+      "reasoning": "The content heavily emphasizes selling to existing customers, with specific statistics about higher success rates and spending patterns of existing customers versus new ones."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Welcome and onboard new customers",
+        "confidence": 0.85,
+        "reasoning": "Detailed discussion of personalized onboarding processes and welcome email sequences",
+        "relationship": "Effective onboarding sets the foundation for future cross-sell and upsell opportunities"
+      },
+      {
+        "name": "Personalize outreach and communication",
+        "confidence": 0.8,
+        "reasoning": "Strong focus on personalizing customer communications and segmenting users for targeted messaging",
+        "relationship": "Personalization enables more effective cross-sell and upsell efforts by delivering relevant offers"
+      },
+      {
+        "name": "Improve marketing performance",
+        "confidence": 0.75,
+        "reasoning": "Specific discussion of metrics like LCV and ROI for measuring customer marketing success",
+        "relationship": "Measuring performance helps optimize cross-sell and upsell strategies"
+      },
+      {
+        "name": "Engage customers with regular communication",
+        "confidence": 0.7,
+        "reasoning": "Emphasizes ongoing customer communication and relationship building throughout the customer journey",
+        "relationship": "Regular engagement creates opportunities for cross-sell and upsell conversations"
+      }
+    ]
+  },
+  "actoncomlearnblog5leadnurturecampaignsthatbuildpipelineandsupportroi": {
+    "url": "https://act-on.com/learn/blog/5-lead-nurture-campaigns-that-build-pipeline-and-support-roi/",
+    "title": "5 Lead Nurture Campaigns that Build Pipeline and Support ROI",
+    "category": "Email Marketing",
+    "publication_date": "2024-02-16T17:33:26+00:00",
+    "modified_date": "2024-04-23T16:10:39+00:00",
+    "processed_timestamp": "2025-01-09T08:28:32.978413",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Nurture prospects into opportunities",
+    "ai_category": "Lead Management",
+    "ai_category_reasoning": "The content primarily focuses on lead nurturing strategies, including how to manage and score leads through various stages of engagement and improve ROI through nurture campaigns. While marketing automation is mentioned, the core focus is on the strategic management of leads through nurturing processes, including silent prospects, existing customers, and educational campaigns.",
+    "ai_category_status": "success",
+    "use_case": "Nurture prospects into opportunities",
+    "use_case_reasoning": "The content primarily focuses on strategies for improving lead nurturing campaigns to build stronger pipeline and convert prospects into opportunities. The article specifically details various nurturing tactics including email campaign optimization, handling silent prospects, and using lead scoring to move leads through the funnel more effectively.",
+    "use_case_alt": "Improve marketing performance",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Nurture prospects into opportunities",
+    "use_case_reasoning_type_2": "The content is entirely focused on lead nurturing strategies and how to improve nurture campaigns to move prospects through the pipeline. It specifically discusses various nurturing tactics including email campaigns, lead scoring, and educational content aimed at converting prospects into opportunities, with detailed examples of how to improve nurture campaign performance.",
+    "use_case_multi_primary": {
+      "name": "Nurture prospects into opportunities",
+      "confidence": 0.95,
+      "reasoning": "The content extensively covers lead nurturing strategies, campaign optimization, and converting prospects through various stages of the funnel with detailed tactical advice and examples."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Improve marketing performance",
+        "confidence": 0.85,
+        "reasoning": "Strong focus on ROI measurement, performance metrics, and improving campaign effectiveness through data-driven decisions",
+        "relationship": "Performance improvement metrics are used to optimize nurture campaigns and demonstrate their value"
+      },
+      {
+        "name": "Cross-sell and upsell",
+        "confidence": 0.75,
+        "reasoning": "Discusses strategies for growing customer lifetime value and selling to existing customers through nurture campaigns",
+        "relationship": "Nurture campaigns are leveraged to identify and pursue cross-sell/upsell opportunities with existing customers"
+      },
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.7,
+        "reasoning": "Content discusses automation and systematic approaches to improve nurture campaign efficiency",
+        "relationship": "Automation and scalable processes are presented as enablers for more effective nurture campaigns"
+      },
+      {
+        "name": "Be a data-driven marketing org",
+        "confidence": 0.65,
+        "reasoning": "Emphasizes using data and metrics to inform nurture strategy and measure success",
+        "relationship": "Data-driven decision making is presented as fundamental to improving nurture campaign effectiveness"
+      }
+    ]
+  },
+  "actoncomlearnblog5stepstoincreaseconversionrateswithaccountbasedmarketing": {
+    "url": "https://act-on.com/learn/blog/5-steps-to-increase-conversion-rates-with-account-based-marketing/",
+    "title": "5 Account-Based Marketing Best Practices to Supercharge Conversion",
+    "category": "ABM",
+    "publication_date": "2023-07-26T21:37:39+00:00",
+    "modified_date": "2024-06-18T18:29:02+00:00",
+    "processed_timestamp": "2025-01-09T08:28:51.860646",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Deliver the best leads to sales",
+    "ai_category": "ABM",
+    "ai_category_reasoning": "The content is exclusively focused on account-based marketing (ABM) strategy, its benefits, and best practices implementation. The primary purpose is to educate readers about ABM's effectiveness and guide them toward better ABM execution for improved ROI and shorter sales cycles.",
+    "ai_category_status": "success",
+    "use_case": "Deliver the best leads to sales",
+    "use_case_reasoning": "The content focuses on improving lead quality and generating better ROI through account-based marketing strategies, which directly relates to providing sales with higher-quality leads. The emphasis on shorter sales cycles and better results through ABM indicates this is primarily about optimizing the marketing-to-sales handoff process.",
+    "use_case_alt": "Identify and target audience segments",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Deliver the best leads to sales",
+    "use_case_reasoning_type_2": "The content focuses on improving lead quality and implementing account-based marketing (ABM) to achieve better results in the sales process. The emphasis on lead quality and ROI from marketing efforts directly relates to the goal of delivering higher-quality leads to the sales team.",
+    "use_case_multi_primary": {
+      "name": "Deliver the best leads to sales",
+      "confidence": 0.85,
+      "reasoning": "The content directly addresses lead quality and ROI improvement through ABM strategy, with explicit focus on delivering better quality leads that convert."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Identify and target audience segments",
+        "confidence": 0.75,
+        "reasoning": "ABM inherently requires precise audience segmentation and targeting at the account level",
+        "relationship": "Proper audience segmentation through ABM directly supports the delivery of higher quality leads to sales"
+      },
+      {
+        "name": "Improve marketing performance",
+        "confidence": 0.7,
+        "reasoning": "Content explicitly discusses ROI improvement and sales cycle optimization through ABM",
+        "relationship": "Better marketing performance metrics are presented as direct outcomes of implementing effective ABM strategies"
+      }
+    ]
+  },
+  "actoncomlearnblogcaptureandusefirstpartydata": {
+    "url": "https://act-on.com/learn/blog/capture-and-use-first-party-data/",
+    "title": "5 Ways to Capture and Use First-Party Data",
+    "category": "Automation Technology & Strategy",
+    "publication_date": "2022-02-01T12:42:00+00:00",
+    "modified_date": "2023-02-14T21:07:29+00:00",
+    "processed_timestamp": "2025-01-09T08:29:28.531695",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Be a data-driven marketing org",
+    "ai_category": "Data Management and Reporting",
+    "ai_category_reasoning": "This article primarily focuses on strategies for collecting, managing, and utilizing first-party data in response to the decline of third-party cookies. The content extensively covers different data collection methods across various channels and how to effectively use this data for marketing purposes, making it fundamentally about data management rather than just personalization or marketing strategy.",
+    "ai_category_status": "success",
+    "use_case": "Identify and target audience segments",
+    "use_case_reasoning": "The content primarily focuses on how to collect and leverage first-party data for effective audience segmentation and targeting in light of third-party cookie deprecation. It extensively covers different types of segmentation (behavioral, demographic, psychographic, geographic) and how to use various data collection methods to better understand and target audience segments.",
+    "use_case_alt": "Personalize outreach and communication",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "New customer acquisition",
+    "use_case_type_2": "Identify and target audience segments",
+    "use_case_reasoning_type_2": "The content primarily focuses on how to effectively segment and target audiences using first-party data, with detailed explanations of different segmentation types (behavioral, demographic, psychographic, and geographic). While the article discusses personalization, its core message is about how marketers can identify and create audience segments in response to the loss of third-party cookies.",
+    "use_case_multi_primary": {
+      "name": "Identify and target audience segments",
+      "confidence": 0.9,
+      "reasoning": "The content extensively covers different types of segmentation strategies and how to collect and use first-party data for targeted marketing."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Personalize outreach and communication",
+        "confidence": 0.85,
+        "reasoning": "Strong focus on using first-party data to create personalized experiences across multiple channels",
+        "relationship": "Segmentation provides the foundation for effective personalization strategies"
+      },
+      {
+        "name": "Be a data-driven marketing org",
+        "confidence": 0.8,
+        "reasoning": "Emphasizes the importance of collecting and analyzing first-party data across multiple touchpoints",
+        "relationship": "Data collection and analysis enables effective segmentation and personalization"
+      },
+      {
+        "name": "Create a single source of truth for Marketing",
+        "confidence": 0.7,
+        "reasoning": "Discusses integration of various data sources (CRM, marketing automation, website analytics) for comprehensive customer insights",
+        "relationship": "Unified data sources support accurate segmentation and personalization efforts"
+      },
+      {
+        "name": "Nurture prospects into opportunities",
+        "confidence": 0.65,
+        "reasoning": "Covers how to use collected data for lead scoring and moving prospects through the funnel",
+        "relationship": "Proper segmentation enables more effective nurturing strategies"
+      }
+    ]
+  },
+  "actoncomlearnblogdemandgeneration1017tacticsforgeneratinghighqualityleads": {
+    "url": "https://act-on.com/learn/blog/demand-generation-101-7-tactics-for-generating-high-quality-leads/",
+    "title": "7 Tactics to Improve Your Demand Generation Strategy",
+    "category": "Demand and Lead Generation",
+    "publication_date": "2023-08-25T16:23:52+00:00",
+    "modified_date": "2024-11-22T17:34:53+00:00",
+    "processed_timestamp": "2025-01-09T08:30:09.490415",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Deliver the best leads to sales",
+    "ai_category": "Demand and Lead Generation",
+    "ai_category_reasoning": "This content primarily focuses on explaining and providing tactical advice for demand generation strategies, including the distinction between demand gen and lead gen. The article comprehensively covers demand generation tactics like SEO, content gating, and lead scoring, making it clearly centered on generating and qualifying business leads rather than other marketing aspects.",
+    "ai_category_status": "success",
+    "use_case": "Scale demand generation operations",
+    "use_case_reasoning": "The content primarily focuses on strategies and tactics to improve and scale demand generation efforts through automation, optimization, and systematic approaches. While it covers multiple aspects of demand gen, the core emphasis is on operational efficiency and scaling through tools like marketing automation, lead scoring, and website personalization.",
+    "use_case_alt": "Deliver the best leads to sales",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Convert unknown visitors to know leads",
+    "use_case_reasoning_type_2": "The content primarily focuses on demand generation strategies to attract unknown prospects and convert them into known leads through tactics like SEO, gated content, and website personalization. While the article touches on other aspects of marketing, its main purpose is to guide marketers in identifying and converting website visitors into leads at the top of the funnel.",
+    "use_case_multi_primary": {
+      "name": "Scale demand generation operations",
+      "confidence": 0.9,
+      "reasoning": "The content comprehensively covers demand generation strategy and tactics, with specific focus on scaling and automating operations through marketing automation, lead scoring, and systematic approaches."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Deliver the best leads to sales",
+        "confidence": 0.85,
+        "reasoning": "Strong emphasis on lead quality, lead scoring, and sales team alignment throughout the content",
+        "relationship": "Quality lead delivery is presented as a key outcome of scaled demand generation operations"
+      },
+      {
+        "name": "Identify and target audience segments",
+        "confidence": 0.8,
+        "reasoning": "Content discusses audience targeting through SEO, ABM, and personalization strategies",
+        "relationship": "Effective segmentation enables scaled demand generation efforts"
+      },
+      {
+        "name": "Personalize outreach and communication",
+        "confidence": 0.75,
+        "reasoning": "Detailed coverage of website personalization and personalized content delivery",
+        "relationship": "Personalization is presented as a key tactic within the broader demand generation strategy"
+      },
+      {
+        "name": "Be a data-driven marketing org",
+        "confidence": 0.7,
+        "reasoning": "Content emphasizes measuring results and using data for lead scoring and performance tracking",
+        "relationship": "Data-driven decision making supports effective demand generation scaling"
+      }
+    ]
+  },
+  "actoncomlearnblogfeedingthefunnelhowtobuildnurtureprogramsthatdrivepipeline": {
+    "url": "https://act-on.com/learn/blog/feeding-the-funnel-how-to-build-nurture-programs-that-drive-pipeline/",
+    "title": "Feeding the funnel: How to build nurture programs that drive pipeline",
+    "category": "Email Marketing",
+    "publication_date": "2022-12-16T19:39:35+00:00",
+    "modified_date": "2023-04-28T23:00:46+00:00",
+    "processed_timestamp": "2025-01-09T08:30:32.592120",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Nurture prospects into opportunities",
+    "ai_category": "Email Marketing",
+    "ai_category_reasoning": "The content primarily focuses on strategic email marketing practices, specifically discussing behavioral segmentation and lead creation funnels in the context of email campaigns. While it touches on automation and deliverability, the main emphasis is on creating effective email marketing strategies through segmentation and funnel optimization for better engagement and conversions.",
+    "ai_category_status": "success",
+    "use_case": "Nurture prospects into opportunities",
+    "use_case_reasoning": "The content primarily focuses on creating strategic nurture campaigns through behavioral segmentation and lead funnels to convert prospects into qualified opportunities. The detailed explanation of TOFU, MOFU, and BOFU stages along with behavioral segmentation techniques is specifically aimed at improving nurture effectiveness and moving leads through the funnel.",
+    "use_case_alt": "Identify and target audience segments",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Nurture prospects into opportunities",
+    "use_case_reasoning_type_2": "The content focuses heavily on creating strategic nurture campaigns through behavioral segmentation and lead funnels (TOFU, MOFU, BOFU) to convert prospects into qualified leads. The article specifically details how to move contacts through the marketing funnel using segmentation and nurture strategies, making it primarily about nurturing prospects into opportunities.",
+    "use_case_multi_primary": {
+      "name": "Nurture prospects into opportunities",
+      "confidence": 0.95,
+      "reasoning": "The content extensively covers lead nurturing strategy through behavioral segmentation and funnel stages (TOFU, MOFU, BOFU) with specific focus on converting prospects to qualified leads."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Identify and target audience segments",
+        "confidence": 0.9,
+        "reasoning": "Detailed discussion of behavioral segmentation strategies and how to effectively target different audience segments",
+        "relationship": "Segmentation is presented as the foundation for effective nurturing, enabling more targeted and personalized nurture streams"
+      },
+      {
+        "name": "Personalize outreach and communication",
+        "confidence": 0.85,
+        "reasoning": "Content emphasizes creating personalized marketing strategies based on behavioral data and segmentation",
+        "relationship": "Personalization is shown as a key implementation tactic for effective nurture programs"
+      },
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.75,
+        "reasoning": "Discusses using marketing automation platforms and systematic approaches to create scalable nurture programs",
+        "relationship": "Automation and systematic processes are presented as enablers for sophisticated nurture programs at scale"
+      },
+      {
+        "name": "Improve marketing performance",
+        "confidence": 0.7,
+        "reasoning": "Addresses optimization of conversion rates and ROI through better segmentation and nurture strategies",
+        "relationship": "Performance improvement is positioned as a key outcome of implementing proper nurture and segmentation strategies"
+      }
+    ]
+  },
+  "actoncomlearnbloghowtoalignsalesandmarketingonstrategy": {
+    "url": "https://act-on.com/learn/blog/how-to-align-sales-and-marketing-on-strategy/",
+    "title": "How to Align Sales and Marketing on Strategy",
+    "category": "Sales and Marketing Alignment",
+    "publication_date": "2023-09-25T09:33:00+00:00",
+    "modified_date": "2024-12-17T12:32:05+00:00",
+    "processed_timestamp": "2025-01-09T08:30:54.706388",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Empower Sales with account intelligence",
+    "ai_category": "Sales and Marketing Alignment",
+    "ai_category_reasoning": "This content specifically focuses on strategies and methods to align sales and marketing teams through shared definitions, processes, and goals. The article extensively covers how to create unified ICPs, buyer personas, lead definitions, and scoring systems to bridge the gap between sales and marketing departments.",
+    "ai_category_status": "success",
+    "use_case": "Deliver the best leads to sales",
+    "use_case_reasoning": "The content primarily focuses on sales and marketing alignment in lead qualification, handoff processes, and defining MQLs/SQLs. It provides detailed guidance on establishing shared definitions and processes between marketing and sales teams to ensure quality lead delivery.",
+    "use_case_alt": "Identify and target audience segments",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Deliver the best leads to sales",
+    "use_case_reasoning_type_2": "This content is primarily focused on sales and marketing alignment in the context of lead handoff, including detailed discussion of lead scoring, MQL/SQL definitions, and how to effectively transition leads between teams. The content specifically addresses how marketing teams can better qualify and deliver leads to sales through proper documentation, scoring, and clear handoff processes.",
+    "use_case_multi_primary": {
+      "name": "Deliver the best leads to sales",
+      "confidence": 0.95,
+      "reasoning": "Content extensively covers sales and marketing alignment specifically around lead definitions, scoring, and handoff processes"
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Identify and target audience segments",
+        "confidence": 0.85,
+        "reasoning": "Detailed coverage of ICP development and buyer persona creation for targeting specific audiences",
+        "relationship": "Proper audience segmentation directly impacts the quality of leads delivered to sales"
+      },
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.75,
+        "reasoning": "Content discusses automation of lead scoring and systematic processes for lead qualification",
+        "relationship": "Automated lead scoring and qualification processes help scale the delivery of quality leads to sales"
+      },
+      {
+        "name": "Be a data-driven marketing org",
+        "confidence": 0.7,
+        "reasoning": "Emphasizes the importance of metrics, definitions, and quantitative frameworks for lead scoring",
+        "relationship": "Data-driven approach ensures consistent and objective lead qualification before sales handoff"
+      },
+      {
+        "name": "Improve marketing performance",
+        "confidence": 0.65,
+        "reasoning": "Discusses setting shared metrics and improving lead quality measurement",
+        "relationship": "Clear metrics and definitions help optimize the lead handoff process and overall marketing-sales performance"
+      }
+    ]
+  },
+  "actoncomlearnbloghowtoreducecustomerattritionandkeepyourbestcustomers": {
+    "url": "https://act-on.com/learn/blog/how-to-reduce-customer-attrition-and-keep-your-best-customers/",
+    "title": "How to Reduce Customer Attrition and Keep Your Best Customers",
+    "category": "Customer Marketing",
+    "publication_date": "2024-05-30T22:52:49+00:00",
+    "modified_date": "2024-05-30T22:55:56+00:00",
+    "processed_timestamp": "2025-01-09T08:31:12.266072",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Deliver Value and Keep customers (CMO Priority)",
+    "ai_category": "Customer Marketing",
+    "ai_category_reasoning": "This content primarily focuses on customer retention strategies, reducing churn, and growing existing customer relationships through various marketing and engagement tactics. The article specifically addresses customer loyalty, post-sale relationship building, and retention programs, which are core elements of customer marketing rather than general marketing strategy or automation topics.",
+    "ai_category_status": "success",
+    "use_case": "Drive product adoption & usage",
+    "use_case_reasoning": "The content primarily focuses on strategies to ensure customers successfully adopt and use products post-sale, with emphasis on onboarding and adoption as foundations for retention and growth. While cross-selling and upselling are mentioned, the core message centers on getting customers to fully utilize their existing purchases as a prerequisite for expansion.",
+    "use_case_alt": "Cross-sell and upsell",
+    "analysis_status": "success",
+    "getKeepGrow": "2-KEEP",
+    "cmoPriority": "Deliver value and retain customers",
+    "use_case_type_2": "Cross-sell and upsell",
+    "use_case_reasoning_type_2": "The content primarily focuses on strategies for growing revenue from existing customers through cross-selling and upselling, with specific discussion of adoption-led growth and sales expansion growth. While the content touches on customer retention and onboarding, the main emphasis is on how to successfully expand business with current customers through cross-sell and upsell opportunities.",
+    "use_case_multi_primary": {
+      "name": "Drive product adoption & usage",
+      "confidence": 0.9,
+      "reasoning": "The content heavily emphasizes the importance of product adoption, onboarding, and getting customers to fully utilize existing products before expansion."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Welcome and onboard new customers",
+        "confidence": 0.85,
+        "reasoning": "Detailed discussion of welcome series and onboarding processes as critical components of customer success",
+        "relationship": "Successful onboarding is presented as the foundation for driving product adoption and preventing churn"
+      },
+      {
+        "name": "Cross-sell and upsell",
+        "confidence": 0.8,
+        "reasoning": "Extensively covers sales expansion growth through cross-sells and upsells as key growth strategies",
+        "relationship": "Cross-sell/upsell opportunities are presented as natural extensions after successful product adoption"
+      },
+      {
+        "name": "Grow advocates; build loyalty",
+        "confidence": 0.75,
+        "reasoning": "Discusses the distinction between satisfaction and loyalty, emphasizing the importance of building true customer advocacy",
+        "relationship": "Customer loyalty is positioned as an outcome of successful product adoption and engagement"
+      },
+      {
+        "name": "Engage customers with regular communication",
+        "confidence": 0.7,
+        "reasoning": "Details specific communication strategies including welcome series, nurture sequences, and ongoing customer engagement",
+        "relationship": "Regular communication is presented as a key tool for driving adoption and maintaining customer relationships"
+      }
+    ]
+  },
+  "actoncomlearnbloghowtouseautomatedcustomersegmentationforbetterresults": {
+    "url": "https://act-on.com/learn/blog/how-to-use-automated-customer-segmentation-for-better-results/",
+    "title": "How to Use Audience Segmentation to Win Prospects and Customers",
+    "category": "Marketing Automation",
+    "publication_date": "2024-06-28T16:32:06+00:00",
+    "modified_date": "2024-12-27T22:29:36+00:00",
+    "processed_timestamp": "2025-01-09T08:31:32.968362",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Identify and target audience segments",
+    "ai_category": "Personalization",
+    "ai_category_reasoning": "The content primarily focuses on audience segmentation as a method for delivering personalized marketing experiences to different customer groups. While it touches on marketing automation and lead nurturing, the main emphasis is on how to effectively segment audiences to create more personalized, relevant messaging and communications for different customer groups.",
+    "ai_category_status": "success",
+    "use_case": "Identify and target audience segments",
+    "use_case_reasoning": "This content is primarily focused on explaining audience segmentation strategies, including different types of segmentation and how to implement them effectively for better marketing results. The article provides detailed guidance on how marketers can define and create audience segments, supported by real examples and data showing the impact of proper segmentation.",
+    "use_case_alt": "Personalize outreach and communication",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "New customer acquisition",
+    "use_case_type_2": "Identify and target audience segments",
+    "use_case_reasoning_type_2": "The content is entirely focused on explaining audience segmentation strategies, including what it is, why it's important, and different types of segmentation approaches like demographics, industry, behavior, and buyer's journey. The article provides specific examples of how to implement segmentation strategies and includes real results from implementing different segmentation approaches.",
+    "use_case_multi_primary": {
+      "name": "Identify and target audience segments",
+      "confidence": 0.95,
+      "reasoning": "The content is entirely focused on explaining audience segmentation strategies, types, and implementation for marketing teams"
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Personalize outreach and communication",
+        "confidence": 0.85,
+        "reasoning": "Content extensively discusses how segmentation enables personalized messaging and communication",
+        "relationship": "Segmentation is presented as the foundation for effective personalization strategies"
+      },
+      {
+        "name": "Nurture prospects into opportunities",
+        "confidence": 0.8,
+        "reasoning": "The content includes specific examples of lead nurturing programs and their results",
+        "relationship": "Proper segmentation is shown to improve nurturing campaign effectiveness through better targeting"
+      },
+      {
+        "name": "Improve marketing performance",
+        "confidence": 0.75,
+        "reasoning": "Content provides specific metrics and improvements in open rates, click-through rates, and overall campaign performance",
+        "relationship": "Segmentation is presented as a key driver for improving marketing KPIs and performance metrics"
+      }
+    ]
+  },
+  "actoncomlearnblogintegratesalesandmarketingsoftwaretostreamlineprocesses": {
+    "url": "https://act-on.com/learn/blog/integrate-sales-and-marketing-software-to-streamline-processes/",
+    "title": "Integrate Sales and Marketing Software to Streamline Processes",
+    "category": "Sales and Marketing Alignment",
+    "publication_date": "2023-09-25T09:50:00+00:00",
+    "modified_date": "2024-11-22T16:14:45+00:00",
+    "processed_timestamp": "2025-01-09T08:32:17.730108",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Empower Sales with account intelligence",
+    "ai_category": "Sales and Marketing Alignment",
+    "ai_category_reasoning": "The content primarily focuses on how to align sales and marketing teams through technology integrations, processes, and relationship building between the departments. The article specifically discusses CRM-MAP integration, handoff processes, and strategies for building better collaboration between sales and marketing teams, making it a perfect fit for the Sales and Marketing Alignment category.",
+    "ai_category_status": "success",
+    "use_case": "Deliver the best leads to sales",
+    "use_case_reasoning": "The content primarily focuses on the technical and operational aspects of marketing-sales alignment, specifically through CRM and MAP integration to effectively hand off and manage leads between teams. The detailed discussion of bidirectional data flow, lead handoff processes, and systems integration directly supports the goal of delivering qualified leads to sales efficiently.",
+    "use_case_alt": "Scale demand generation operations",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Deliver the best leads to sales",
+    "use_case_reasoning_type_2": "The content primarily focuses on the integration between marketing and sales teams, specifically discussing CRM-MAP integrations, lead handoff processes, and building relationships between sales and marketing teams. The emphasis is on how marketing can effectively deliver and manage leads through the sales process, including technical integration details and organizational alignment strategies.",
+    "use_case_multi_primary": {
+      "name": "Deliver the best leads to sales",
+      "confidence": 0.95,
+      "reasoning": "The content extensively covers CRM-MAP integration, lead handoff processes, and sales-marketing alignment specifically focused on lead management and delivery."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.85,
+        "reasoning": "Content discusses automation and integration of systems to streamline lead management processes",
+        "relationship": "Efficient system integration enables scalable lead delivery and management between marketing and sales teams"
+      },
+      {
+        "name": "Create a single source of truth for Marketing",
+        "confidence": 0.75,
+        "reasoning": "Emphasizes the importance of bidirectional data flow and unified visibility between CRM and MAP systems",
+        "relationship": "Accurate lead delivery requires consistent data synchronization between marketing and sales platforms"
+      },
+      {
+        "name": "Personalize outreach and communication",
+        "confidence": 0.65,
+        "reasoning": "Discusses using integrated data to personalize content and sales communications",
+        "relationship": "Integrated systems enable personalized lead handoff and communication between sales and marketing"
+      }
+    ]
+  },
+  "actoncomlearnblogleadscoringmodelbuildingaframeworktodriveconversion": {
+    "url": "https://act-on.com/learn/blog/lead-scoring-model-building-a-framework-to-drive-conversion/",
+    "title": "Lead Scoring Model: Building a Framework to Drive Conversion",
+    "category": "Lead Management",
+    "publication_date": "2024-04-26T16:32:13+00:00",
+    "modified_date": "2024-12-04T23:06:19+00:00",
+    "processed_timestamp": "2025-01-09T08:32:35.749398",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Convert unknown visitors to known leads",
+    "ai_category": "Lead Management",
+    "ai_category_reasoning": "This content provides a comprehensive guide to building and implementing a lead scoring model, which is a core component of lead management practices. The article focuses specifically on how to qualify, score, and manage leads through their lifecycle, making Lead Management the most appropriate category over broader categories like Marketing Automation or B2B Marketing.",
+    "ai_category_status": "success",
+    "use_case": "Deliver the best leads to sales",
+    "use_case_reasoning": "This content provides a comprehensive guide on building and implementing lead scoring models to effectively identify and deliver qualified leads to sales teams. The content focuses heavily on the collaboration between marketing and sales teams to define scoring criteria and thresholds for marketing qualified leads (MQLs), which is central to the lead handoff process.",
+    "use_case_alt": "Nurture prospects into opportunities",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Deliver the best leads to sales",
+    "use_case_reasoning_type_2": "This content is entirely focused on lead scoring methodology and implementation to effectively identify and pass the most qualified leads to sales teams. The content provides detailed instructions on building a lead scoring model, including cross-functional collaboration with sales teams, setting MQL thresholds, and evaluating lead quality metrics to ensure sales receives the most promising opportunities.",
+    "use_case_multi_primary": {
+      "name": "Deliver the best leads to sales",
+      "confidence": 0.95,
+      "reasoning": "The content provides comprehensive guidance on building and implementing a lead scoring model to identify and deliver qualified leads to sales teams"
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Identify and target audience segments",
+        "confidence": 0.85,
+        "reasoning": "Content extensively covers ICP definition, buyer personas, and audience segmentation strategies",
+        "relationship": "Proper audience segmentation is fundamental to creating an effective lead scoring model"
+      },
+      {
+        "name": "Nurture prospects into opportunities",
+        "confidence": 0.8,
+        "reasoning": "Discusses behavioral scoring and customer journey mapping to track prospect progression through the funnel",
+        "relationship": "Lead scoring helps determine when prospects are ready to move from nurture tracks to sales engagement"
+      },
+      {
+        "name": "Be a data-driven marketing org",
+        "confidence": 0.75,
+        "reasoning": "Emphasizes using data and metrics to evaluate and refine lead scoring models over time",
+        "relationship": "Data-driven approach ensures lead scoring accuracy and continuous improvement"
+      },
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.7,
+        "reasoning": "Provides framework for automating lead qualification and routing processes",
+        "relationship": "Automated lead scoring enables scalable demand generation operations"
+      }
+    ]
+  },
+  "actoncomlearnblogleadscoringtoolsandtacticstoconvertcustomers": {
+    "url": "https://act-on.com/learn/blog/lead-scoring-tools-and-tactics-to-convert-customers/",
+    "title": "Lead Scoring: Tools and Tactics to Convert Customers",
+    "category": "Lead Management",
+    "publication_date": "2024-04-29T17:22:47+00:00",
+    "modified_date": "2024-12-04T10:15:27+00:00",
+    "processed_timestamp": "2025-01-09T08:33:00.300148",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Convert unknown visitors to known leads",
+    "ai_category": "Lead Management",
+    "ai_category_reasoning": "This content primarily focuses on the tools, processes, and strategies for managing and scoring leads throughout their journey. While it mentions marketing automation as one of the tools, the core focus is on lead scoring methodology, lead enrichment, and nurturing practices as part of comprehensive lead management strategy.",
+    "ai_category_status": "success",
+    "use_case": "Deliver the best leads to sales",
+    "use_case_reasoning": "The content primarily focuses on lead scoring tools, processes, and implementation to effectively evaluate and pass qualified leads to sales teams. While it touches on nurturing and automation, the main business outcome is about identifying and delivering the most sales-ready leads through proper scoring and qualification.",
+    "use_case_alt": "Nurture prospects into opportunities",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Deliver the best leads to sales",
+    "use_case_reasoning_type_2": "This content focuses extensively on lead scoring tools, processes, and systems used to evaluate and pass qualified leads to sales teams. The content specifically discusses marketing automation platforms, lead enrichment tools, and scoring models that help determine which leads are ready for sales handoff, making it primarily about the marketing-to-sales handoff process.",
+    "use_case_multi_primary": {
+      "name": "Deliver the best leads to sales",
+      "confidence": 0.9,
+      "reasoning": "The content primarily focuses on lead scoring tools and processes to effectively qualify and hand off leads to sales teams through marketing automation platforms."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.85,
+        "reasoning": "Content extensively covers automation tools and systems for scaling lead management processes",
+        "relationship": "Automation tools and lead scoring systems enable efficient scaling of lead qualification and delivery processes"
+      },
+      {
+        "name": "Nurture prospects into opportunities",
+        "confidence": 0.8,
+        "reasoning": "Detailed discussion of lead nurturing strategies and how to move leads through the funnel using scoring and automation",
+        "relationship": "Lead scoring directly informs nurture strategies to convert prospects into qualified opportunities"
+      },
+      {
+        "name": "Identify and target audience segments",
+        "confidence": 0.75,
+        "reasoning": "Significant coverage of segmentation strategies using lead scoring as a mechanism for targeting",
+        "relationship": "Segmentation works alongside lead scoring to better identify and target different audience groups based on their engagement levels"
+      },
+      {
+        "name": "Be a data-driven marketing org",
+        "confidence": 0.7,
+        "reasoning": "Content emphasizes the importance of data enrichment and analytics in lead scoring processes",
+        "relationship": "Data-driven approach supports more accurate lead scoring and better sales handoffs"
+      }
+    ]
+  },
+  "actoncomlearnblogpipelinegenerationfaceeconomicheadwindsandwin": {
+    "url": "https://act-on.com/learn/blog/pipeline-generation-face-economic-headwinds-and-win/",
+    "title": "Customer Acquisition: Face Economic Headwinds and Win",
+    "category": "Marketing Strategy",
+    "publication_date": "2024-03-19T22:46:04+00:00",
+    "modified_date": "2024-04-29T18:35:24+00:00",
+    "processed_timestamp": "2025-01-09T08:33:23.770974",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "New Customer Acquisition (CMO Priority)",
+    "ai_category": "Marketing Strategy",
+    "ai_category_reasoning": "This content primarily discusses high-level strategic challenges and evolving responsibilities of CMOs, including cross-functional partnerships, customer experience improvements, and data-driven decision making. While marketing automation is mentioned, the article's main focus is on broader strategic planning and organizational alignment to address current market challenges and ROI expectations.",
+    "ai_category_status": "success",
+    "use_case": "Improve marketing performance",
+    "use_case_reasoning": "The content primarily focuses on CMOs' challenges with demonstrating ROI, measuring marketing performance, and achieving quantifiable results in response to economic pressures. The article emphasizes the importance of metrics accountability and improving marketing effectiveness through better lead quality, data strategies, and marketing automation tools to demonstrate business value.",
+    "use_case_alt": "Deliver the best leads to sales",
+    "analysis_status": "success",
+    "getKeepGrow": "4-OPTIMIZE",
+    "cmoPriority": "Maximizing MROI",
+    "use_case_type_2": "Improve marketing performance",
+    "use_case_reasoning_type_2": "The content primarily focuses on how marketing leaders can demonstrate ROI, improve lead quality, and measure marketing performance through quantifiable results. The article specifically addresses challenges around marketing metrics, KPIs, and performance accountability, particularly in relation to budget concerns and leadership expectations for measurable outcomes.",
+    "use_case_multi_primary": {
+      "name": "Improve marketing performance",
+      "confidence": 0.9,
+      "reasoning": "The content heavily focuses on ROI measurement, marketing metrics accountability, and improving marketing effectiveness through better lead quality and data-driven decisions."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Deliver the best leads to sales",
+        "confidence": 0.85,
+        "reasoning": "Significant discussion about improving lead quality and sales-marketing alignment for better lead handoff",
+        "relationship": "Better lead quality directly contributes to improved marketing performance metrics and ROI"
+      },
+      {
+        "name": "Be a data-driven marketing org",
+        "confidence": 0.8,
+        "reasoning": "Content emphasizes the importance of leveraging data strategies and marketing automation for decision-making",
+        "relationship": "Data-driven approach enables measurement and improvement of marketing performance"
+      },
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.7,
+        "reasoning": "Discusses marketing automation migration and optimization for better operational efficiency",
+        "relationship": "Efficient operations and automation support improved marketing performance at scale"
+      },
+      {
+        "name": "Create a single source of truth for Marketing",
+        "confidence": 0.6,
+        "reasoning": "References the need for consolidated marketing automation tools and proper martech stack utilization",
+        "relationship": "Consolidated data sources enable better performance measurement and optimization"
+      }
+    ]
+  },
+  "actoncomlearnblogproventacticsforengagingandsuccessfulwelcomeemails": {
+    "url": "https://act-on.com/learn/blog/proven-tactics-for-engaging-and-successful-welcome-emails/",
+    "title": "Welcome Emails: Inspiring Ideas New Customers Will Love",
+    "category": "Customer Marketing",
+    "publication_date": "2024-05-21T21:06:40+00:00",
+    "modified_date": "2024-07-10T21:06:52+00:00",
+    "processed_timestamp": "2025-01-09T08:33:48.206042",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Welcome and onboard new customers",
+    "ai_category": "Customer Marketing",
+    "ai_category_reasoning": "The content primarily focuses on welcome emails as a crucial component of customer marketing strategy, specifically addressing post-purchase communication and relationship building with existing customers. The article emphasizes customer retention and relationship management through welcome emails, which aligns directly with customer marketing's core focus on existing customer engagement and value maximization.",
+    "ai_category_status": "success",
+    "use_case": "Welcome and onboard new customers",
+    "use_case_reasoning": "The content is specifically focused on welcome emails and best practices for initiating relationships with new customers after purchase. The article extensively covers welcome email strategies, timing, and content recommendations to ensure successful customer onboarding and relationship building.",
+    "use_case_alt": "Engage customers with regular communication",
+    "analysis_status": "success",
+    "getKeepGrow": "2-KEEP",
+    "cmoPriority": "Deliver value and retain customers",
+    "use_case_type_2": "Welcome and onboard new customers",
+    "use_case_reasoning_type_2": "The content is entirely focused on welcome emails and best practices for onboarding new customers after their initial purchase. It specifically addresses how to make customers feel welcome through initial communications and provides detailed guidance on welcome email strategies, timing, and content to establish strong customer relationships from the start.",
+    "use_case_multi_primary": {
+      "name": "Welcome and onboard new customers",
+      "confidence": 0.95,
+      "reasoning": "The content is explicitly focused on welcome email strategies and best practices for new customer onboarding, providing detailed guidance on timing, content, and implementation."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Engage customers with regular communication",
+        "confidence": 0.85,
+        "reasoning": "Content emphasizes ongoing communication strategies and setting expectations for future interactions with customers",
+        "relationship": "Welcome emails serve as the foundation for establishing regular customer communication channels"
+      },
+      {
+        "name": "Drive product adoption & usage",
+        "confidence": 0.75,
+        "reasoning": "Content discusses providing helpful resources and support information to help customers start using the product successfully",
+        "relationship": "Welcome emails set the stage for product adoption by providing initial resources and support contacts"
+      },
+      {
+        "name": "Cross-sell and upsell",
+        "confidence": 0.65,
+        "reasoning": "Content mentions strategic upsells and cross-sells as part of the larger customer marketing strategy",
+        "relationship": "Welcome emails create the foundation for future cross-sell and upsell opportunities through customer relationship building"
+      },
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.6,
+        "reasoning": "Content recommends using marketing automation tools for triggered welcome emails to scale the process",
+        "relationship": "Automated welcome emails are part of scaling efficient customer communication operations"
+      }
+    ]
+  },
+  "actoncomlearnblogsalesandmarketingalignmentwhyitmatters": {
+    "url": "https://act-on.com/learn/blog/sales-and-marketing-alignment-why-it-matters/",
+    "title": "Sales and Marketing Alignment: Why it Matters",
+    "category": "Sales and Marketing Alignment",
+    "publication_date": "2023-09-25T08:33:00+00:00",
+    "modified_date": "2023-09-22T22:21:02+00:00",
+    "processed_timestamp": "2025-01-09T08:34:32.447516",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Empower Sales with account intelligence",
+    "ai_category": "Sales and Marketing Alignment",
+    "ai_category_reasoning": "The content specifically focuses on the relationship, challenges, and importance of alignment between sales and marketing teams in B2B organizations. The article thoroughly examines the structural, communication, and operational aspects of sales-marketing collaboration, making it a clear fit for the Sales and Marketing Alignment category rather than broader marketing strategy or B2B marketing categories.",
+    "ai_category_status": "success",
+    "use_case": "Deliver the best leads to sales",
+    "use_case_reasoning": "This content primarily focuses on the relationship between sales and marketing teams, specifically around lead handoff and qualification processes. The article extensively discusses the challenges and importance of sales-marketing alignment in effectively managing leads and creating a seamless customer experience.",
+    "use_case_alt": "Identify and target audience segments",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Deliver the best leads to sales",
+    "use_case_reasoning_type_2": "This content focuses extensively on the relationship between marketing and sales teams, specifically around lead handoff and qualification processes. The article discusses common challenges in marketing-sales alignment, including lead quality disputes and handoff processes, while emphasizing the importance of proper collaboration between these teams for effective lead management.",
+    "use_case_multi_primary": {
+      "name": "Deliver the best leads to sales",
+      "confidence": 0.9,
+      "reasoning": "The content directly addresses the core challenges and solutions for marketing-sales alignment in lead handoff and qualification processes."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Identify and target audience segments",
+        "confidence": 0.7,
+        "reasoning": "Content emphasizes the importance of having shared understanding of target audiences and buyer personas between sales and marketing",
+        "relationship": "Proper audience identification is fundamental to delivering qualified leads that sales will value"
+      },
+      {
+        "name": "Be a data-driven marketing org",
+        "confidence": 0.65,
+        "reasoning": "Content discusses the importance of aligned metrics, definitions, and measurement methods between sales and marketing",
+        "relationship": "Data-driven approach supports better lead qualification and handoff processes"
+      },
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.6,
+        "reasoning": "Content addresses operational aspects of sales-marketing alignment including tech integration and process optimization",
+        "relationship": "Efficient operations and integrated tech stacks enable better lead delivery and sales-marketing collaboration"
+      }
+    ]
+  },
+  "actoncomlearnblogthenewrulesofdatadrivenmarketing": {
+    "url": "https://act-on.com/learn/blog/the-new-rules-of-data-driven-marketing/",
+    "title": "The New Rules of Data-Driven Marketing",
+    "category": "Data Management and Reporting",
+    "publication_date": "2024-06-20T23:50:54+00:00",
+    "modified_date": "2024-06-20T23:50:56+00:00",
+    "processed_timestamp": "2025-01-09T08:34:50.780033",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Be a data-driven marketing org",
+    "ai_category": "Analytics and Reporting",
+    "ai_category_reasoning": "The content primarily focuses on the evolution and practical application of data-driven marketing, including challenges with attribution, measurement strategies, and how to effectively use marketing analytics. The article extensively covers analytics principles and reporting methodologies while discussing the balance between data utilization and marketing intuition.",
+    "ai_category_status": "success",
+    "use_case": "Be a data-driven marketing org",
+    "use_case_reasoning": "The content extensively discusses the evolution and proper implementation of data-driven marketing strategies, including how to effectively use data while balancing it with creativity and intuition. It specifically addresses the challenges and solutions for becoming a data-driven organization while maintaining focus on practical applications and real-world constraints.",
+    "use_case_alt": "Improve marketing performance",
+    "analysis_status": "success",
+    "getKeepGrow": "4-OPTIMIZE",
+    "cmoPriority": "Maximizing MROI",
+    "use_case_type_2": "Be a data-driven marketing org",
+    "use_case_reasoning_type_2": "The content extensively discusses the evolution and practical application of data-driven marketing strategies, including how to effectively use data while balancing it with creativity and intuition. It specifically addresses the challenges and solutions for becoming a data-driven marketing organization, covering topics like first-party data collection, connecting data sources, and using analytics tools to make strategic decisions.",
+    "use_case_multi_primary": {
+      "name": "Be a data-driven marketing org",
+      "confidence": 0.95,
+      "reasoning": "The content extensively covers the evolution, challenges, and practical implementation of data-driven marketing strategies, including specific principles and tactics for modern marketing teams."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Create a single source of truth for Marketing",
+        "confidence": 0.85,
+        "reasoning": "Content explicitly discusses centralizing data sources and establishing a single source of truth for marketing data management",
+        "relationship": "A single source of truth is presented as a fundamental requirement for effective data-driven marketing operations"
+      },
+      {
+        "name": "Improve marketing performance",
+        "confidence": 0.8,
+        "reasoning": "Content addresses how to measure, analyze, and improve marketing performance metrics while maintaining balance with creative initiatives",
+        "relationship": "Performance improvement is positioned as a key outcome of proper data-driven marketing approaches"
+      },
+      {
+        "name": "Identify and target audience segments",
+        "confidence": 0.75,
+        "reasoning": "The content discusses audience segmentation and personalization as core principles of data-driven marketing",
+        "relationship": "Effective segmentation is presented as a crucial application of data-driven insights"
+      },
+      {
+        "name": "Scale marketing output",
+        "confidence": 0.65,
+        "reasoning": "Content covers how to use data and automation to optimize and scale marketing efforts efficiently",
+        "relationship": "Scaling marketing activities is shown as a benefit of implementing data-driven approaches"
+      }
+    ]
+  },
+  "actoncomlearnblogusetriggercampaignseffectivelynurtureleads": {
+    "url": "https://act-on.com/learn/blog/use-trigger-campaigns-effectively-nurture-leads/",
+    "title": "Email Nurture Campaigns: 5 Ways to Use Trigger Emails to Effectively Capture Leads",
+    "category": "Email Marketing",
+    "publication_date": "2019-08-20T07:00:00+00:00",
+    "modified_date": "2024-01-10T20:48:31+00:00",
+    "processed_timestamp": "2025-01-09T08:35:13.521706",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Nurture prospects into opportunities",
+    "ai_category": "Email Marketing",
+    "ai_category_reasoning": "This content primarily focuses on email nurture campaigns, triggered emails, and email marketing strategies as its core subject matter. While it mentions automation, the emphasis is specifically on email campaign tactics, best practices, and use cases rather than broader marketing automation platform features or technical implementation details.",
+    "ai_category_status": "success",
+    "use_case": "Nurture prospects into opportunities",
+    "use_case_reasoning": "The content primarily focuses on triggered email nurture campaigns and how to use them effectively to move prospects through the sales funnel. While it touches on multiple aspects of email marketing, the core focus is on nurturing leads through automated email sequences based on prospect behavior and engagement.",
+    "use_case_alt": "Personalize outreach and communication",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Nurture prospects into opportunities",
+    "use_case_reasoning_type_2": "The content primarily focuses on email nurture campaigns, specifically triggered email nurturing strategies to move prospects through the sales funnel. The article details various types of nurture campaigns and how to use them effectively to convert prospects into opportunities, including behavior-based triggers and lead scoring approaches.",
+    "use_case_multi_primary": {
+      "name": "Nurture prospects into opportunities",
+      "confidence": 0.95,
+      "reasoning": "The content extensively covers triggered email nurture campaigns as a core strategy for moving prospects through the marketing funnel, with detailed examples and use cases."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Scale demand generation operations",
+        "confidence": 0.85,
+        "reasoning": "Content focuses heavily on automation capabilities to handle multiple marketing tasks efficiently and scale email marketing efforts",
+        "relationship": "Automation of nurture campaigns enables scaling of demand generation efforts while maintaining personalization"
+      },
+      {
+        "name": "Personalize outreach and communication",
+        "confidence": 0.8,
+        "reasoning": "Multiple sections discuss personalizing email content based on user behavior and segmentation",
+        "relationship": "Personalization is presented as a key component of successful nurture campaigns"
+      },
+      {
+        "name": "Cross-sell and upsell",
+        "confidence": 0.7,
+        "reasoning": "Content specifically addresses using triggered emails for customer upselling and additional product recommendations",
+        "relationship": "Nurture campaigns are shown to facilitate cross-selling and upselling to existing customers"
+      },
+      {
+        "name": "Deliver the best leads to sales",
+        "confidence": 0.65,
+        "reasoning": "Discusses lead scoring and MQL handoff processes to sales team",
+        "relationship": "Nurture campaigns help qualify leads before passing them to sales"
+      }
+    ]
+  },
+  "actoncomlearnblogwhatisleadscoringformarketingandwhatarethebenefits": {
+    "url": "https://act-on.com/learn/blog/what-is-lead-scoring-for-marketing-and-what-are-the-benefits/",
+    "title": "What is Lead Scoring for Marketing and What Are the Benefits?",
+    "category": "Lead Management",
+    "publication_date": "2024-04-10T22:59:10+00:00",
+    "modified_date": "2024-04-29T17:30:51+00:00",
+    "processed_timestamp": "2025-01-09T08:36:00.918932",
+    "red_flags": {
+      "matches": []
+    },
+    "pre sorted use case": "Convert unknown visitors to known leads",
+    "ai_category": "Lead Management",
+    "ai_category_reasoning": "This content primarily focuses on lead scoring methodology, implementation, and benefits for sales and marketing teams. The article provides an in-depth explanation of how lead scoring works to qualify and manage leads through the buyer's journey, making Lead Management the most specific and appropriate category over broader options like Marketing Automation or Sales and Marketing Alignment.",
+    "ai_category_status": "success",
+    "use_case": "Deliver the best leads to sales",
+    "use_case_reasoning": "The content primarily focuses on lead scoring as a methodology for qualifying and properly timing the handoff of leads from marketing to sales teams. It extensively covers how to determine lead quality through scoring mechanisms and the benefits of proper lead qualification before sales engagement, which is core to the sales-marketing handoff process.",
+    "use_case_alt": "Nurture prospects into opportunities",
+    "analysis_status": "success",
+    "getKeepGrow": "1-GET",
+    "cmoPriority": "Build Pipeline and Accelerate Sales",
+    "use_case_type_2": "Deliver the best leads to sales",
+    "use_case_reasoning_type_2": "This content is primarily focused on lead scoring as a method to effectively hand off leads from marketing to sales teams. The content extensively covers how to qualify leads through scoring mechanisms and ensure sales teams receive leads at the right time in their buying journey, which directly aligns with the goal of delivering quality leads to sales.",
+    "use_case_multi_primary": {
+      "name": "Deliver the best leads to sales",
+      "confidence": 0.95,
+      "reasoning": "The content extensively covers lead scoring as a methodology for qualifying and properly timing the handoff of leads from marketing to sales teams."
+    },
+    "use_case_multi_addl": [
+      {
+        "name": "Nurture prospects into opportunities",
+        "confidence": 0.85,
+        "reasoning": "Content discusses the importance of nurturing leads through content and engagement before sales handoff",
+        "relationship": "Lead scoring helps determine when nurturing should continue versus when a prospect is ready for sales engagement"
+      },
+      {
+        "name": "Improve marketing performance",
+        "confidence": 0.75,
+        "reasoning": "The content emphasizes how lead scoring improves conversion rates and overall marketing-sales efficiency",
+        "relationship": "Lead scoring provides quantitative metrics to measure and improve lead quality and conversion rates"
+      },
+      {
+        "name": "Be a data-driven marketing org",
+        "confidence": 0.7,
+        "reasoning": "Content focuses on using both implicit and explicit data points to make strategic decisions about lead qualification",
+        "relationship": "Lead scoring framework provides a data-driven approach to qualifying leads rather than relying on gut instinct"
+      }
+    ]
+  }
+}
